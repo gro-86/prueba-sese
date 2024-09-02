@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Ejemplo</title>
+</head>
+<body>
+    <h2>Formulario de Registro</h2>
+
+    <form action="/submit_form" method="post">
+        <!-- Campo de texto para el nombre -->
+        <label for="nombre">Nombre:</label><br>
+        <input type="text" id="nombre" name="nombre" required><br><br>
+
+        <!-- Campo de texto para el correo electrónico -->
+        <label for="email">Correo electrónico:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <!-- Campo de texto para la contraseña -->
+        <label for="password">Contraseña:</label><br>
+        <input type="password" id="password" name="password" required><br><br>
+
+        <!-- Campo de selección (dropdown) -->
+        <label for="pais">País:</label><br>
+        <select id="pais" name="pais">
+            <option value="es">España</option>
+            <option value="mx">México</option>
+            <option value="ar">Argentina</option>
+            <option value="co">Colombia</option>
+        </select><br><br>
+
+        <!-- Botones de opción (radio buttons) -->
+        <label>Género:</label><br>
+        <input type="radio" id="hombre" name="genero" value="hombre">
+        <label for="hombre">Hombre</label><br>
+        <input type="radio" id="mujer" name="genero" value="mujer">
+        <label for="mujer">Mujer</label><br><br>
+
+        <!-- Casilla de verificación (checkbox) -->
+        <input type="checkbox" id="terminos" name="terminos" required>
+        <label for="terminos">Acepto los términos y condiciones</label><br><br>
+
+        <!-- Botón de envío -->
+        <input type="submit" value="Registrarse">
+    </form>
+</body>
+</html>
