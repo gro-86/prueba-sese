@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\formacion\\source\\repos\\Prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B41E0CA-C9B7-4388-B0CE-FB101B69F21E}|Prueba\\Prueba.csproj|c:\\users\\formacion\\source\\repos\\prueba\\prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B41E0CA-C9B7-4388-B0CE-FB101B69F21E}|Prueba\\Prueba.csproj|solutionrelative:prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B41E0CA-C9B7-4388-B0CE-FB101B69F21E}|Prueba\\Prueba.csproj|C:\\Users\\formacion\\source\\repos\\Prueba\\prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B41E0CA-C9B7-4388-B0CE-FB101B69F21E}|Prueba\\Prueba.csproj|solutionrelative:prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Prueba\\Prueba\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba\\Program.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Prueba\\Prueba\\Program.cs",
+              "RelativeToolTip": "Prueba\\Program.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAAAPQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:13:18.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Prueba\\Prueba\\Form1.cs",
+              "RelativeDocumentMoniker": "Prueba\\Form1.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Prueba\\Prueba\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Prueba\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:13:02.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

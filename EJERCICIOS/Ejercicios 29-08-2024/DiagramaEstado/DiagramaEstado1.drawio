@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="79C8e6Te4k9pKtA_m6ST" name="Page-1">
+        <mxGraphModel dx="3089" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;gradientColor=none;strokeColor=#CC0000;" parent="1" vertex="1">
+                    <mxGeometry x="-1750" y="340" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Cambia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7" vertex="1" connectable="0">
+                    <mxGeometry x="-0.3167" y="-1" relative="1" as="geometry">
+                        <mxPoint x="13" y="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="Rojo" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CC0000;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="-1590" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" parent="1" source="6" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Parpadea" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10" vertex="1" connectable="0">
+                    <mxGeometry x="-0.4063" y="2" relative="1" as="geometry">
+                        <mxPoint x="21" y="2" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="Verde" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CC0000;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="-1360" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Vuelve" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="3">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-1050" y="480"/>
+                            <mxPoint x="-1530" y="480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="Naranja" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CC0000;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="-1110" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

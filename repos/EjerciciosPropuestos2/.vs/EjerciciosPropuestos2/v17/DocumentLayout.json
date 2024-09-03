@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0208A5-15EB-4B33-A573-91B783AC4073}|EjerciciosPropuestos2\\EjerciciosPropuestos2_Auro_Ben.csproj|c:\\users\\formacion\\source\\repos\\ejerciciospropuestos2\\ejerciciospropuestos2\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0208A5-15EB-4B33-A573-91B783AC4073}|EjerciciosPropuestos2\\EjerciciosPropuestos2_Auro_Ben.csproj|solutionrelative:ejerciciospropuestos2\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0208A5-15EB-4B33-A573-91B783AC4073}|EjerciciosPropuestos2\\EjerciciosPropuestos2_Auro_Ben.csproj|c:\\users\\formacion\\source\\repos\\ejerciciospropuestos2\\ejerciciospropuestos2\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0208A5-15EB-4B33-A573-91B783AC4073}|EjerciciosPropuestos2\\EjerciciosPropuestos2_Auro_Ben.csproj|solutionrelative:ejerciciospropuestos2\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0208A5-15EB-4B33-A573-91B783AC4073}|EjerciciosPropuestos2\\EjerciciosPropuestos2_Auro_Ben.csproj|c:\\users\\formacion\\source\\repos\\ejerciciospropuestos2\\ejerciciospropuestos2\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0208A5-15EB-4B33-A573-91B783AC4073}|EjerciciosPropuestos2\\EjerciciosPropuestos2_Auro_Ben.csproj|solutionrelative:ejerciciospropuestos2\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0208A5-15EB-4B33-A573-91B783AC4073}|EjerciciosPropuestos2\\EjerciciosPropuestos2_Auro_Ben.csproj|c:\\users\\formacion\\source\\repos\\ejerciciospropuestos2\\ejerciciospropuestos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0208A5-15EB-4B33-A573-91B783AC4073}|EjerciciosPropuestos2\\EjerciciosPropuestos2_Auro_Ben.csproj|solutionrelative:ejerciciospropuestos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2\\EjerciciosPropuestos2\\Proveedor.cs",
+              "RelativeDocumentMoniker": "EjerciciosPropuestos2\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2\\EjerciciosPropuestos2\\Proveedor.cs",
+              "RelativeToolTip": "EjerciciosPropuestos2\\Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:57:56.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2\\EjerciciosPropuestos2\\Producto.cs",
+              "RelativeDocumentMoniker": "EjerciciosPropuestos2\\Producto.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2\\EjerciciosPropuestos2\\Producto.cs",
+              "RelativeToolTip": "EjerciciosPropuestos2\\Producto.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:57:34.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2\\EjerciciosPropuestos2\\Factura.cs",
+              "RelativeDocumentMoniker": "EjerciciosPropuestos2\\Factura.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2\\EjerciciosPropuestos2\\Factura.cs",
+              "RelativeToolTip": "EjerciciosPropuestos2\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:55:57.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2\\EjerciciosPropuestos2\\Program.cs",
+              "RelativeDocumentMoniker": "EjerciciosPropuestos2\\Program.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2\\EjerciciosPropuestos2\\Program.cs",
+              "RelativeToolTip": "EjerciciosPropuestos2\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDwAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:52:49.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

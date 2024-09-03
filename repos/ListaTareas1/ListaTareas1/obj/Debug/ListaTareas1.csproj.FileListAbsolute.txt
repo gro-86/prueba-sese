@@ -1,0 +1,10 @@
+C:\Users\formacion\source\repos\ListaTareas1\ListaTareas1\bin\Debug\ListaTareas1.exe.config
+C:\Users\formacion\source\repos\ListaTareas1\ListaTareas1\bin\Debug\ListaTareas1.exe
+C:\Users\formacion\source\repos\ListaTareas1\ListaTareas1\bin\Debug\ListaTareas1.pdb
+C:\Users\formacion\source\repos\ListaTareas1\ListaTareas1\obj\Debug\ListaTareas1.csproj.AssemblyReference.cache
+C:\Users\formacion\source\repos\ListaTareas1\ListaTareas1\obj\Debug\ListaTareas1.Form1.resources
+C:\Users\formacion\source\repos\ListaTareas1\ListaTareas1\obj\Debug\ListaTareas1.Properties.Resources.resources
+C:\Users\formacion\source\repos\ListaTareas1\ListaTareas1\obj\Debug\ListaTareas1.csproj.GenerateResource.cache
+C:\Users\formacion\source\repos\ListaTareas1\ListaTareas1\obj\Debug\ListaTareas1.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\ListaTareas1\ListaTareas1\obj\Debug\ListaTareas1.exe
+C:\Users\formacion\source\repos\ListaTareas1\ListaTareas1\obj\Debug\ListaTareas1.pdb

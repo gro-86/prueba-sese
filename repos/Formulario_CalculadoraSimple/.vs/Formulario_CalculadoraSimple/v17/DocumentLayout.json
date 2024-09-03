@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\formacion\\source\\repos\\Formulario_CalculadoraSimple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E9779-9288-40C3-BFE4-0D6658FE35E1}|Formulario_CalculadoraSimple\\Formulario_CalculadoraSimple.csproj|C:\\Users\\formacion\\source\\repos\\Formulario_CalculadoraSimple\\formulario_calculadorasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D69E9779-9288-40C3-BFE4-0D6658FE35E1}|Formulario_CalculadoraSimple\\Formulario_CalculadoraSimple.csproj|solutionrelative:formulario_calculadorasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E9779-9288-40C3-BFE4-0D6658FE35E1}|Formulario_CalculadoraSimple\\Formulario_CalculadoraSimple.csproj|C:\\Users\\formacion\\source\\repos\\Formulario_CalculadoraSimple\\formulario_calculadorasimple\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E9779-9288-40C3-BFE4-0D6658FE35E1}|Formulario_CalculadoraSimple\\Formulario_CalculadoraSimple.csproj|solutionrelative:formulario_calculadorasimple\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E9779-9288-40C3-BFE4-0D6658FE35E1}|Formulario_CalculadoraSimple\\Formulario_CalculadoraSimple.csproj|c:\\users\\formacion\\source\\repos\\formulario_calculadorasimple\\formulario_calculadorasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E9779-9288-40C3-BFE4-0D6658FE35E1}|Formulario_CalculadoraSimple\\Formulario_CalculadoraSimple.csproj|solutionrelative:formulario_calculadorasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Formulario_CalculadoraSimple\\Formulario_CalculadoraSimple\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Formulario_CalculadoraSimple\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Formulario_CalculadoraSimple\\Formulario_CalculadoraSimple\\Form1.Designer.cs",
+              "RelativeToolTip": "Formulario_CalculadoraSimple\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwJMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:22:31.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Formulario_CalculadoraSimple\\Formulario_CalculadoraSimple\\Form1.cs",
+              "RelativeDocumentMoniker": "Formulario_CalculadoraSimple\\Form1.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Formulario_CalculadoraSimple\\Formulario_CalculadoraSimple\\Form1.cs",
+              "RelativeToolTip": "Formulario_CalculadoraSimple\\Form1.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:45:34.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Formulario_CalculadoraSimple\\Formulario_CalculadoraSimple\\Form1.cs",
+              "RelativeDocumentMoniker": "Formulario_CalculadoraSimple\\Form1.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Formulario_CalculadoraSimple\\Formulario_CalculadoraSimple\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario_CalculadoraSimple\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:40:37.559Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

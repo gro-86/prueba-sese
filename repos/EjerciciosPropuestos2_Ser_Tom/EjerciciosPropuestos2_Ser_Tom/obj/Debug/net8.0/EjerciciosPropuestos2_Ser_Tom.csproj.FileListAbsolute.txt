@@ -1,0 +1,14 @@
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\bin\Debug\net8.0\EjerciciosPropuestos2_Ser_Tom.exe
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\bin\Debug\net8.0\EjerciciosPropuestos2_Ser_Tom.deps.json
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\bin\Debug\net8.0\EjerciciosPropuestos2_Ser_Tom.runtimeconfig.json
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\bin\Debug\net8.0\EjerciciosPropuestos2_Ser_Tom.dll
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\bin\Debug\net8.0\EjerciciosPropuestos2_Ser_Tom.pdb
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\obj\Debug\net8.0\EjerciciosPropuestos2_Ser_Tom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\obj\Debug\net8.0\EjerciciosPropuestos2_Ser_Tom.AssemblyInfoInputs.cache
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\obj\Debug\net8.0\EjerciciosPropuestos2_Ser_Tom.AssemblyInfo.cs
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\obj\Debug\net8.0\EjerciciosPropuestos2_Ser_Tom.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\obj\Debug\net8.0\EjerciciosPropuestos2_Ser_Tom.dll
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\obj\Debug\net8.0\refint\EjerciciosPropuestos2_Ser_Tom.dll
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\obj\Debug\net8.0\EjerciciosPropuestos2_Ser_Tom.pdb
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\obj\Debug\net8.0\EjerciciosPropuestos2_Ser_Tom.genruntimeconfig.cache
+C:\Users\formacion\source\repos\EjerciciosPropuestos2_Ser_Tom\EjerciciosPropuestos2_Ser_Tom\obj\Debug\net8.0\ref\EjerciciosPropuestos2_Ser_Tom.dll

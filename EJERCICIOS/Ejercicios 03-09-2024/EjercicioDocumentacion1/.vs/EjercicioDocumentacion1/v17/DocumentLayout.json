@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\formacion\\Desktop\\EJERCICIOS\\Ejercicios 03-09-2024\\EjercicioDocumentacion1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4B7700-D286-438B-8DEB-50A5D1069F06}|EjercicioDocumentacion1\\EjercicioDocumentacion1.csproj|c:\\users\\formacion\\desktop\\ejercicios\\ejercicios 03-09-2024\\ejerciciodocumentacion1\\ejerciciodocumentacion1\\ejerciciodocumentacion1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BD4B7700-D286-438B-8DEB-50A5D1069F06}|EjercicioDocumentacion1\\EjercicioDocumentacion1.csproj|solutionrelative:ejerciciodocumentacion1\\ejerciciodocumentacion1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4B7700-D286-438B-8DEB-50A5D1069F06}|EjercicioDocumentacion1\\EjercicioDocumentacion1.csproj|c:\\users\\formacion\\desktop\\ejercicios\\ejercicios 03-09-2024\\ejerciciodocumentacion1\\ejerciciodocumentacion1\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4B7700-D286-438B-8DEB-50A5D1069F06}|EjercicioDocumentacion1\\EjercicioDocumentacion1.csproj|solutionrelative:ejerciciodocumentacion1\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EjercicioDocumentacion1",
+              "DocumentMoniker": "C:\\Users\\formacion\\Desktop\\EJERCICIOS\\Ejercicios 03-09-2024\\EjercicioDocumentacion1\\EjercicioDocumentacion1\\EjercicioDocumentacion1.csproj",
+              "RelativeDocumentMoniker": "EjercicioDocumentacion1\\EjercicioDocumentacion1.csproj",
+              "ToolTip": "C:\\Users\\formacion\\Desktop\\EJERCICIOS\\Ejercicios 03-09-2024\\EjercicioDocumentacion1\\EjercicioDocumentacion1\\EjercicioDocumentacion1.csproj",
+              "RelativeToolTip": "EjercicioDocumentacion1\\EjercicioDocumentacion1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T07:28:27.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\Desktop\\EJERCICIOS\\Ejercicios 03-09-2024\\EjercicioDocumentacion1\\EjercicioDocumentacion1\\Point.cs",
+              "RelativeDocumentMoniker": "EjercicioDocumentacion1\\Point.cs",
+              "ToolTip": "C:\\Users\\formacion\\Desktop\\EJERCICIOS\\Ejercicios 03-09-2024\\EjercicioDocumentacion1\\EjercicioDocumentacion1\\Point.cs",
+              "RelativeToolTip": "EjercicioDocumentacion1\\Point.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:24:40.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

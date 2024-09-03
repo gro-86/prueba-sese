@@ -1,0 +1,10 @@
+C:\Users\formacion\source\repos\Formulario_SeleccionOpcion\Formulario_SeleccionOpcion\obj\Debug\Formulario_SeleccionOpcion.csproj.AssemblyReference.cache
+C:\Users\formacion\source\repos\Formulario_SeleccionOpcion\Formulario_SeleccionOpcion\obj\Debug\Formulario_SeleccionOpcion.Form1.resources
+C:\Users\formacion\source\repos\Formulario_SeleccionOpcion\Formulario_SeleccionOpcion\obj\Debug\Formulario_SeleccionOpcion.Properties.Resources.resources
+C:\Users\formacion\source\repos\Formulario_SeleccionOpcion\Formulario_SeleccionOpcion\obj\Debug\Formulario_SeleccionOpcion.csproj.GenerateResource.cache
+C:\Users\formacion\source\repos\Formulario_SeleccionOpcion\Formulario_SeleccionOpcion\obj\Debug\Formulario_SeleccionOpcion.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\Formulario_SeleccionOpcion\Formulario_SeleccionOpcion\bin\Debug\Formulario_SeleccionOpcion.exe.config
+C:\Users\formacion\source\repos\Formulario_SeleccionOpcion\Formulario_SeleccionOpcion\bin\Debug\Formulario_SeleccionOpcion.exe
+C:\Users\formacion\source\repos\Formulario_SeleccionOpcion\Formulario_SeleccionOpcion\bin\Debug\Formulario_SeleccionOpcion.pdb
+C:\Users\formacion\source\repos\Formulario_SeleccionOpcion\Formulario_SeleccionOpcion\obj\Debug\Formulario_SeleccionOpcion.exe
+C:\Users\formacion\source\repos\Formulario_SeleccionOpcion\Formulario_SeleccionOpcion\obj\Debug\Formulario_SeleccionOpcion.pdb

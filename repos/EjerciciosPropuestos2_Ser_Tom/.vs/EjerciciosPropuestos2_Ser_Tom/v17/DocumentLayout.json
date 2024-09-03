@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2_Ser_Tom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63BD2B8D-8062-4700-B623-E0C279BBF096}|EjerciciosPropuestos2_Ser_Tom\\EjerciciosPropuestos2_Ser_Tom.csproj|c:\\users\\formacion\\source\\repos\\ejerciciospropuestos2_ser_tom\\ejerciciospropuestos2_ser_tom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BD2B8D-8062-4700-B623-E0C279BBF096}|EjerciciosPropuestos2_Ser_Tom\\EjerciciosPropuestos2_Ser_Tom.csproj|solutionrelative:ejerciciospropuestos2_ser_tom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BD2B8D-8062-4700-B623-E0C279BBF096}|EjerciciosPropuestos2_Ser_Tom\\EjerciciosPropuestos2_Ser_Tom.csproj|c:\\users\\formacion\\source\\repos\\ejerciciospropuestos2_ser_tom\\ejerciciospropuestos2_ser_tom\\garaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BD2B8D-8062-4700-B623-E0C279BBF096}|EjerciciosPropuestos2_Ser_Tom\\EjerciciosPropuestos2_Ser_Tom.csproj|solutionrelative:ejerciciospropuestos2_ser_tom\\garaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BD2B8D-8062-4700-B623-E0C279BBF096}|EjerciciosPropuestos2_Ser_Tom\\EjerciciosPropuestos2_Ser_Tom.csproj|c:\\users\\formacion\\source\\repos\\ejerciciospropuestos2_ser_tom\\ejerciciospropuestos2_ser_tom\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BD2B8D-8062-4700-B623-E0C279BBF096}|EjerciciosPropuestos2_Ser_Tom\\EjerciciosPropuestos2_Ser_Tom.csproj|solutionrelative:ejerciciospropuestos2_ser_tom\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Garaje.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2_Ser_Tom\\EjerciciosPropuestos2_Ser_Tom\\Garaje.cs",
+              "RelativeDocumentMoniker": "EjerciciosPropuestos2_Ser_Tom\\Garaje.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2_Ser_Tom\\EjerciciosPropuestos2_Ser_Tom\\Garaje.cs",
+              "RelativeToolTip": "EjerciciosPropuestos2_Ser_Tom\\Garaje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:46:50.718Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2_Ser_Tom\\EjerciciosPropuestos2_Ser_Tom\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "EjerciciosPropuestos2_Ser_Tom\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2_Ser_Tom\\EjerciciosPropuestos2_Ser_Tom\\Vehiculo.cs",
+              "RelativeToolTip": "EjerciciosPropuestos2_Ser_Tom\\Vehiculo.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAiwEcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:41:12.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2_Ser_Tom\\EjerciciosPropuestos2_Ser_Tom\\Program.cs",
+              "RelativeDocumentMoniker": "EjerciciosPropuestos2_Ser_Tom\\Program.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjerciciosPropuestos2_Ser_Tom\\EjerciciosPropuestos2_Ser_Tom\\Program.cs",
+              "RelativeToolTip": "EjerciciosPropuestos2_Ser_Tom\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:40:22.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

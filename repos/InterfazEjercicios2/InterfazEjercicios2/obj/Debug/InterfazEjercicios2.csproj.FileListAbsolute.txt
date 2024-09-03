@@ -1,0 +1,10 @@
+C:\Users\formacion\source\repos\InterfazEjercicios2\InterfazEjercicios2\bin\Debug\InterfazEjercicios2.exe.config
+C:\Users\formacion\source\repos\InterfazEjercicios2\InterfazEjercicios2\bin\Debug\InterfazEjercicios2.exe
+C:\Users\formacion\source\repos\InterfazEjercicios2\InterfazEjercicios2\bin\Debug\InterfazEjercicios2.pdb
+C:\Users\formacion\source\repos\InterfazEjercicios2\InterfazEjercicios2\obj\Debug\InterfazEjercicios2.csproj.AssemblyReference.cache
+C:\Users\formacion\source\repos\InterfazEjercicios2\InterfazEjercicios2\obj\Debug\InterfazEjercicios2.Form1.resources
+C:\Users\formacion\source\repos\InterfazEjercicios2\InterfazEjercicios2\obj\Debug\InterfazEjercicios2.Properties.Resources.resources
+C:\Users\formacion\source\repos\InterfazEjercicios2\InterfazEjercicios2\obj\Debug\InterfazEjercicios2.csproj.GenerateResource.cache
+C:\Users\formacion\source\repos\InterfazEjercicios2\InterfazEjercicios2\obj\Debug\InterfazEjercicios2.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\InterfazEjercicios2\InterfazEjercicios2\obj\Debug\InterfazEjercicios2.exe
+C:\Users\formacion\source\repos\InterfazEjercicios2\InterfazEjercicios2\obj\Debug\InterfazEjercicios2.pdb

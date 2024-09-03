@@ -1,0 +1,14 @@
+C:\Users\formacion\source\repos\Torneo\Torneo\obj\Debug\net8.0\Torneos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\formacion\source\repos\Torneo\Torneo\obj\Debug\net8.0\Torneos.AssemblyInfoInputs.cache
+C:\Users\formacion\source\repos\Torneo\Torneo\obj\Debug\net8.0\Torneos.AssemblyInfo.cs
+C:\Users\formacion\source\repos\Torneo\Torneo\obj\Debug\net8.0\Torneos.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\Torneo\Torneo\bin\Debug\net8.0\Torneos.exe
+C:\Users\formacion\source\repos\Torneo\Torneo\bin\Debug\net8.0\Torneos.deps.json
+C:\Users\formacion\source\repos\Torneo\Torneo\bin\Debug\net8.0\Torneos.runtimeconfig.json
+C:\Users\formacion\source\repos\Torneo\Torneo\bin\Debug\net8.0\Torneos.dll
+C:\Users\formacion\source\repos\Torneo\Torneo\bin\Debug\net8.0\Torneos.pdb
+C:\Users\formacion\source\repos\Torneo\Torneo\obj\Debug\net8.0\Torneos.dll
+C:\Users\formacion\source\repos\Torneo\Torneo\obj\Debug\net8.0\refint\Torneos.dll
+C:\Users\formacion\source\repos\Torneo\Torneo\obj\Debug\net8.0\Torneos.pdb
+C:\Users\formacion\source\repos\Torneo\Torneo\obj\Debug\net8.0\Torneos.genruntimeconfig.cache
+C:\Users\formacion\source\repos\Torneo\Torneo\obj\Debug\net8.0\ref\Torneos.dll

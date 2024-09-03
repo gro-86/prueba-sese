@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|c:\\users\\formacion\\source\\repos\\ejerciciobiblioteca\\ejerciciobiblioteca\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|solutionrelative:ejerciciobiblioteca\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|c:\\users\\formacion\\source\\repos\\ejerciciobiblioteca\\ejerciciobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|solutionrelative:ejerciciobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|c:\\users\\formacion\\source\\repos\\ejerciciobiblioteca\\ejerciciobiblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|solutionrelative:ejerciciobiblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|c:\\users\\formacion\\source\\repos\\ejerciciobiblioteca\\ejerciciobiblioteca\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|solutionrelative:ejerciciobiblioteca\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|c:\\users\\formacion\\source\\repos\\ejerciciobiblioteca\\ejerciciobiblioteca\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|solutionrelative:ejerciciobiblioteca\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|c:\\users\\formacion\\source\\repos\\ejerciciobiblioteca\\ejerciciobiblioteca\\iresis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|solutionrelative:ejerciciobiblioteca\\iresis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|c:\\users\\formacion\\source\\repos\\ejerciciobiblioteca\\ejerciciobiblioteca\\isecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36336863-BBE9-47A2-80A6-034BB91DCD70}|EjercicioBiblioteca\\EjercicioBiblioteca.csproj|solutionrelative:ejerciciobiblioteca\\isecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IResis.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\IResis.cs",
+              "RelativeDocumentMoniker": "EjercicioBiblioteca\\IResis.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\IResis.cs",
+              "RelativeToolTip": "EjercicioBiblioteca\\IResis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:58:02.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISecurity.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\ISecurity.cs",
+              "RelativeDocumentMoniker": "EjercicioBiblioteca\\ISecurity.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\ISecurity.cs",
+              "RelativeToolTip": "EjercicioBiblioteca\\ISecurity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:57:32.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\DVD.cs",
+              "RelativeDocumentMoniker": "EjercicioBiblioteca\\DVD.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\DVD.cs",
+              "RelativeToolTip": "EjercicioBiblioteca\\DVD.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:48:59.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Revista.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\Revista.cs",
+              "RelativeDocumentMoniker": "EjercicioBiblioteca\\Revista.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\Revista.cs",
+              "RelativeToolTip": "EjercicioBiblioteca\\Revista.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwCUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:45:53.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\Material.cs",
+              "RelativeDocumentMoniker": "EjercicioBiblioteca\\Material.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\Material.cs",
+              "RelativeToolTip": "EjercicioBiblioteca\\Material.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:36:22.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\Libro.cs",
+              "RelativeDocumentMoniker": "EjercicioBiblioteca\\Libro.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\Libro.cs",
+              "RelativeToolTip": "EjercicioBiblioteca\\Libro.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowCwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:34:02.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioBiblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjercicioBiblioteca\\EjercicioBiblioteca\\Program.cs",
+              "RelativeToolTip": "EjercicioBiblioteca\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:27:57.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\bin\Debug\net8.0\EjercicioBiblioteca.exe
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\bin\Debug\net8.0\EjercicioBiblioteca.deps.json
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\bin\Debug\net8.0\EjercicioBiblioteca.runtimeconfig.json
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\bin\Debug\net8.0\EjercicioBiblioteca.dll
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\bin\Debug\net8.0\EjercicioBiblioteca.pdb
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\obj\Debug\net8.0\EjercicioBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\obj\Debug\net8.0\EjercicioBiblioteca.AssemblyInfoInputs.cache
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\obj\Debug\net8.0\EjercicioBiblioteca.AssemblyInfo.cs
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\obj\Debug\net8.0\EjercicioBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\obj\Debug\net8.0\EjercicioBiblioteca.dll
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\obj\Debug\net8.0\refint\EjercicioBiblioteca.dll
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\obj\Debug\net8.0\EjercicioBiblioteca.pdb
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\obj\Debug\net8.0\EjercicioBiblioteca.genruntimeconfig.cache
+C:\Users\formacion\source\repos\EjercicioBiblioteca\EjercicioBiblioteca\obj\Debug\net8.0\ref\EjercicioBiblioteca.dll

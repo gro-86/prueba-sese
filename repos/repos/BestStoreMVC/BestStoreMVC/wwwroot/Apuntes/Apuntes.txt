@@ -1,0 +1,45 @@
+﻿[CREAR CONEXION]
+
+Explorador del Servidor
+	Crear Conexion
+		Microsoft SQL Server
+		[Servidor creado en tu PC con SQL Server] Ejemplo: DESKTOP-RRSVM5U\GRO
+		Autenticación de Windows
+		[Nombre de la Base de Datos] Ejemplo: BestStoreDB
+		Avanzado
+			Seguridad
+				TrustServerCertificate - True
+
+		**Crea la base de datos si no existe**
+
+	String de conexión para conectar con la BBDD
+		Click derecho sobre la conexión
+			Connecting String [Copia lo que tiene] Ejemplo: Data Source=.;Initial Catalog=BestStoreDb;Integrated Security=True;Encrypt=True;Trust Server Certificate=True
+		Aplicacion
+			[Crea ConnectionStrings y DefaultConnection para luego pegar el String]
+				{
+				  "Logging": {
+					"LogLevel": {
+					  "Default": "Information",
+					  "Microsoft.AspNetCore": "Warning"
+					}
+				  },
+				  "AllowedHosts": "*",
+				  "ConnectionStrings": {
+					"DefaultConnection": "Data Source=.;Initial Catalog=BestStoreDb;Integrated Security=True;Encrypt=True;Trust Server Certificate=True"
+				  }
+				}
+
+
+[ENTITY FRAMEWORK]
+
+* Se instala para conectar con la base de datos.
+Click derecho sobre protecto
+	Manage Nugget Packages
+		Browse
+			[Selecciona Microsoft.EntityFrameworkCore.SqlServer] --Selecciona la versión instala
+			[Selecciona Microsoft.EntityFrameworkCore.Tools] --Selecciona la versión instala
+
+			
+
+				

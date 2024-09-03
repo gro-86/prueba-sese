@@ -1,0 +1,14 @@
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\obj\Debug\net8.0\EjerciciosPropuestos2_Auro_Ben.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\obj\Debug\net8.0\EjerciciosPropuestos2_Auro_Ben.AssemblyInfoInputs.cache
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\obj\Debug\net8.0\EjerciciosPropuestos2_Auro_Ben.AssemblyInfo.cs
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\obj\Debug\net8.0\EjerciciosPropuestos2_Auro_Ben.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\bin\Debug\net8.0\EjerciciosPropuestos2_Auro_Ben.exe
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\bin\Debug\net8.0\EjerciciosPropuestos2_Auro_Ben.deps.json
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\bin\Debug\net8.0\EjerciciosPropuestos2_Auro_Ben.runtimeconfig.json
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\bin\Debug\net8.0\EjerciciosPropuestos2_Auro_Ben.dll
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\bin\Debug\net8.0\EjerciciosPropuestos2_Auro_Ben.pdb
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\obj\Debug\net8.0\EjerciciosPropuestos2_Auro_Ben.dll
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\obj\Debug\net8.0\refint\EjerciciosPropuestos2_Auro_Ben.dll
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\obj\Debug\net8.0\EjerciciosPropuestos2_Auro_Ben.pdb
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\obj\Debug\net8.0\EjerciciosPropuestos2_Auro_Ben.genruntimeconfig.cache
+C:\Users\formacion\source\repos\EjerciciosPropuestos2\EjerciciosPropuestos2\obj\Debug\net8.0\ref\EjerciciosPropuestos2_Auro_Ben.dll

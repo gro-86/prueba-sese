@@ -1,0 +1,10 @@
+C:\Users\formacion\source\repos\InterfazEjercicios1\InterfazEjercicios1\bin\Debug\InterfazEjercicios1.exe.config
+C:\Users\formacion\source\repos\InterfazEjercicios1\InterfazEjercicios1\bin\Debug\InterfazEjercicios1.exe
+C:\Users\formacion\source\repos\InterfazEjercicios1\InterfazEjercicios1\bin\Debug\InterfazEjercicios1.pdb
+C:\Users\formacion\source\repos\InterfazEjercicios1\InterfazEjercicios1\obj\Debug\InterfazEjercicios1.csproj.AssemblyReference.cache
+C:\Users\formacion\source\repos\InterfazEjercicios1\InterfazEjercicios1\obj\Debug\InterfazEjercicios1.Form1.resources
+C:\Users\formacion\source\repos\InterfazEjercicios1\InterfazEjercicios1\obj\Debug\InterfazEjercicios1.Properties.Resources.resources
+C:\Users\formacion\source\repos\InterfazEjercicios1\InterfazEjercicios1\obj\Debug\InterfazEjercicios1.csproj.GenerateResource.cache
+C:\Users\formacion\source\repos\InterfazEjercicios1\InterfazEjercicios1\obj\Debug\InterfazEjercicios1.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\InterfazEjercicios1\InterfazEjercicios1\obj\Debug\InterfazEjercicios1.exe
+C:\Users\formacion\source\repos\InterfazEjercicios1\InterfazEjercicios1\obj\Debug\InterfazEjercicios1.pdb

@@ -1,0 +1,10 @@
+C:\Users\formacion\source\repos\Formulario_RegistroSimple\Formulario_RegistroSimple\bin\Debug\Formulario_RegistroSimple.exe.config
+C:\Users\formacion\source\repos\Formulario_RegistroSimple\Formulario_RegistroSimple\bin\Debug\Formulario_RegistroSimple.exe
+C:\Users\formacion\source\repos\Formulario_RegistroSimple\Formulario_RegistroSimple\bin\Debug\Formulario_RegistroSimple.pdb
+C:\Users\formacion\source\repos\Formulario_RegistroSimple\Formulario_RegistroSimple\obj\Debug\Formulario_RegistroSimple.csproj.AssemblyReference.cache
+C:\Users\formacion\source\repos\Formulario_RegistroSimple\Formulario_RegistroSimple\obj\Debug\Formulario_RegistroSimple.Form1.resources
+C:\Users\formacion\source\repos\Formulario_RegistroSimple\Formulario_RegistroSimple\obj\Debug\Formulario_RegistroSimple.Properties.Resources.resources
+C:\Users\formacion\source\repos\Formulario_RegistroSimple\Formulario_RegistroSimple\obj\Debug\Formulario_RegistroSimple.csproj.GenerateResource.cache
+C:\Users\formacion\source\repos\Formulario_RegistroSimple\Formulario_RegistroSimple\obj\Debug\Formulario_RegistroSimple.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\Formulario_RegistroSimple\Formulario_RegistroSimple\obj\Debug\Formulario_RegistroSimple.exe
+C:\Users\formacion\source\repos\Formulario_RegistroSimple\Formulario_RegistroSimple\obj\Debug\Formulario_RegistroSimple.pdb

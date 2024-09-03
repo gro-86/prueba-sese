@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades3\\Ej3BenjaAurora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{616D94FC-CAE6-429C-BAF3-9D2E160A614F}|Ej3BenjaAurora\\Ej3BenjaAurora.csproj|c:\\users\\formacion\\desktop\\lorenzo\\formacionsese\\ultimomodulo\\ejercicioscomun\\actividades3\\ej3benjaaurora\\ej3benjaaurora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D94FC-CAE6-429C-BAF3-9D2E160A614F}|Ej3BenjaAurora\\Ej3BenjaAurora.csproj|solutionrelative:ej3benjaaurora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D94FC-CAE6-429C-BAF3-9D2E160A614F}|Ej3BenjaAurora\\Ej3BenjaAurora.csproj|c:\\users\\formacion\\desktop\\lorenzo\\formacionsese\\ultimomodulo\\ejercicioscomun\\actividades3\\ej3benjaaurora\\ej3benjaaurora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D94FC-CAE6-429C-BAF3-9D2E160A614F}|Ej3BenjaAurora\\Ej3BenjaAurora.csproj|solutionrelative:ej3benjaaurora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D94FC-CAE6-429C-BAF3-9D2E160A614F}|Ej3BenjaAurora\\Ej3BenjaAurora.csproj|c:\\users\\formacion\\desktop\\lorenzo\\formacionsese\\ultimomodulo\\ejercicioscomun\\actividades3\\ej3benjaaurora\\ej3benjaaurora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{616D94FC-CAE6-429C-BAF3-9D2E160A614F}|Ej3BenjaAurora\\Ej3BenjaAurora.csproj|solutionrelative:ej3benjaaurora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades3\\Ej3BenjaAurora\\Ej3BenjaAurora\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ej3BenjaAurora\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades3\\Ej3BenjaAurora\\Ej3BenjaAurora\\Form1.Designer.cs",
+              "RelativeToolTip": "Ej3BenjaAurora\\Form1.Designer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:38:12.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades3\\Ej3BenjaAurora\\Ej3BenjaAurora\\Form1.cs",
+              "RelativeDocumentMoniker": "Ej3BenjaAurora\\Form1.cs",
+              "ToolTip": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades3\\Ej3BenjaAurora\\Ej3BenjaAurora\\Form1.cs",
+              "RelativeToolTip": "Ej3BenjaAurora\\Form1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwC0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:38:19.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades3\\Ej3BenjaAurora\\Ej3BenjaAurora\\Form1.cs",
+              "RelativeDocumentMoniker": "Ej3BenjaAurora\\Form1.cs",
+              "ToolTip": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades3\\Ej3BenjaAurora\\Ej3BenjaAurora\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ej3BenjaAurora\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:11:20.732Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

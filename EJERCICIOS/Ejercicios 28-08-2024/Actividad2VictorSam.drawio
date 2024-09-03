@@ -1,0 +1,121 @@
+<mxfile host="65bd71144e">
+    <diagram name="Página-1" id="HWx0XtNJmtTPeDNLsKCa">
+        <mxGraphModel dx="832" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="ggdyMHVkOK_L9-JbVkDp-12" value="&lt;h1 class=&quot;western&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Víctor y Samvid&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;Enunciado de Caso de uso : La Amenaza Fanstasma&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;Descripción:&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;Los Jedi han sido convocados en el Consejo Jedi para discutir sobre la situación de la galaxia. Uno de los&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Jedi llamado Qui-Gon Jinn, informa a&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;sus compañeros Jedi sobre una amenaza de los Sith hacia la Orden&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;Jedi y a la vez informa que tienen como misión proteger a la Reina Amidala que ha solicitado ayuda a los&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;Jedi, además de resolver el conflicto en Naboo.&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;Los Jedi enviar a Qui-Gon Jinn a proteger a la Reina Amilada. Mientras la Reina Amilada está&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;negociando&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;con los invasores, Qui-Gon&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Jinn se enfrenta a los Sith que amenazaban al Consejo Jedi.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;Si Qui-Gon Jinn gana a los Sith los que quedan se van del Planeta Naboo, pero si Qui-Gon Jinn pierde&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;contra los Sith Anakin SkyWalker se convierte en DarthVader.&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;Cuando Amidala termina de negociar abandona el Planeta Naboo.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="15" width="590" height="370" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KQOKc78Kxrfxvni05saj-1" target="KQOKc78Kxrfxvni05saj-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-1" value="Qui-Gon Jinn" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="480" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KQOKc78Kxrfxvni05saj-2" target="KQOKc78Kxrfxvni05saj-14" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="430" y="510" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-2" value="informar al consejo Jedi" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="480" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KQOKc78Kxrfxvni05saj-4" target="KQOKc78Kxrfxvni05saj-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-4" value="Reina Amidala" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="680" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KQOKc78Kxrfxvni05saj-5" target="KQOKc78Kxrfxvni05saj-8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="480" y="710" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-5" value="solicitar ayuda" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="680" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KQOKc78Kxrfxvni05saj-8" target="KQOKc78Kxrfxvni05saj-34" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="750" y="710" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-8" value="negociar con los invasores" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="680" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KQOKc78Kxrfxvni05saj-9" target="KQOKc78Kxrfxvni05saj-11" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-9" value="Consejo Jedi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="820" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-11" value="enviar a Qui-Gon a proteger a Amidala" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="820" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KQOKc78Kxrfxvni05saj-14" target="KQOKc78Kxrfxvni05saj-15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KQOKc78Kxrfxvni05saj-14" target="KQOKc78Kxrfxvni05saj-16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-14" value="enfrentarse a los Sith" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="480" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KQOKc78Kxrfxvni05saj-15" target="KQOKc78Kxrfxvni05saj-21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-15" value="ganar" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="400" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KQOKc78Kxrfxvni05saj-16" target="KQOKc78Kxrfxvni05saj-29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-16" value="perder" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="550" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KQOKc78Kxrfxvni05saj-18" target="KQOKc78Kxrfxvni05saj-19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="KQOKc78Kxrfxvni05saj-18" target="KQOKc78Kxrfxvni05saj-21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-18" value="Siths" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="880" y="400" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-19" value="amenazar al consejo Jedi" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="980" y="400" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-21" value="abandonar Naboo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="696" y="400" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="KQOKc78Kxrfxvni05saj-27" target="KQOKc78Kxrfxvni05saj-29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-27" value="Anakin Skywalker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="880" y="550" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-29" value="convertirse en Darth Vader" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="696" y="550" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KQOKc78Kxrfxvni05saj-34" target="KQOKc78Kxrfxvni05saj-36" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-34" value="&lt;div&gt;terminar negociaciones&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="740" y="680" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-36" value="abandonar Naboo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="970" y="680" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-38" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="794" y="577" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-39" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="794" y="430" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="KQOKc78Kxrfxvni05saj-41" value="Actores involucrados: Qui-Gon Jinn, Reina Amidala, Consejo Jedi, Siths, Anakin Skywalker&lt;div&gt;Precondicion: Que&amp;nbsp; exista la amenaza&lt;/div&gt;&lt;div&gt;Flujo básico:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;-Los Siths amenazan al consjeo Jedi e invaden el Planeta Naboo&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;-Qui-Gon Jinn informa al consejo Jedi&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;-La reina Amidala solicita ayuda&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;-El consejo Jedi envia a Qui-Gon Jinn a proteger a la reina&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;-La reina negocia con los invasores&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;-La reina termina las negociaciones&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;-La reina abandona Naboo&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;-Qui-Gon Jinn se efrenta a los Siths&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;-Qui-Gon Jinn gana a los Siths&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;-Los Siths abandonan Naboo&lt;/div&gt;&lt;div&gt;Caminos alternativos:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;En el paso 9 Qui-Gon Jinn pierde contra los Siths y Anakin Skywalker se convierte en Dath Vader&lt;br&gt;&lt;/div&gt;&lt;div&gt;Postcondición: Naboo es abandonado&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="630" y="820" width="570" height="240" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

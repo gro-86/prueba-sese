@@ -1,0 +1,10 @@
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades3\Ej3JosephLuis\Ej3JosephLuis\bin\Debug\Ej3JosephLuis.exe.config
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades3\Ej3JosephLuis\Ej3JosephLuis\bin\Debug\Ej3JosephLuis.exe
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades3\Ej3JosephLuis\Ej3JosephLuis\bin\Debug\Ej3JosephLuis.pdb
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades3\Ej3JosephLuis\Ej3JosephLuis\obj\Debug\Ej3JosephLuis.csproj.AssemblyReference.cache
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades3\Ej3JosephLuis\Ej3JosephLuis\obj\Debug\Ej3JosephLuis.Form1.resources
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades3\Ej3JosephLuis\Ej3JosephLuis\obj\Debug\Ej3JosephLuis.Properties.Resources.resources
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades3\Ej3JosephLuis\Ej3JosephLuis\obj\Debug\Ej3JosephLuis.csproj.GenerateResource.cache
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades3\Ej3JosephLuis\Ej3JosephLuis\obj\Debug\Ej3JosephLuis.csproj.CoreCompileInputs.cache
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades3\Ej3JosephLuis\Ej3JosephLuis\obj\Debug\Ej3JosephLuis.exe
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades3\Ej3JosephLuis\Ej3JosephLuis\obj\Debug\Ej3JosephLuis.pdb

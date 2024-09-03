@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\formacion\\source\\repos\\Torneo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|c:\\users\\formacion\\source\\repos\\torneo\\torneo\\entidad\\bboy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|solutionrelative:torneo\\entidad\\bboy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|c:\\users\\formacion\\source\\repos\\torneo\\torneo\\entidad\\juez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|solutionrelative:torneo\\entidad\\juez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|c:\\users\\formacion\\source\\repos\\torneo\\torneo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|solutionrelative:torneo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|c:\\users\\formacion\\source\\repos\\torneo\\torneo\\entidad\\accion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|solutionrelative:torneo\\entidad\\accion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|c:\\users\\formacion\\source\\repos\\torneo\\torneo\\entidad\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|solutionrelative:torneo\\entidad\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|c:\\users\\formacion\\source\\repos\\torneo\\torneo\\entidad\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|solutionrelative:torneo\\entidad\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|c:\\users\\formacion\\source\\repos\\torneo\\torneo\\entidad\\campeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|solutionrelative:torneo\\entidad\\campeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|c:\\users\\formacion\\source\\repos\\torneo\\torneo\\entidad\\estilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340B86A-CD50-4F35-B7F2-4AB65E4179FA}|Torneo\\Torneos.csproj|solutionrelative:torneo\\entidad\\estilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Accion.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Accion.cs",
+              "RelativeDocumentMoniker": "Torneo\\Entidad\\Accion.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Accion.cs",
+              "RelativeToolTip": "Torneo\\Entidad\\Accion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:38:04.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Juez.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Juez.cs",
+              "RelativeDocumentMoniker": "Torneo\\Entidad\\Juez.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Juez.cs",
+              "RelativeToolTip": "Torneo\\Entidad\\Juez.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:35:52.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Campeonato.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Campeonato.cs",
+              "RelativeDocumentMoniker": "Torneo\\Entidad\\Campeonato.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Campeonato.cs",
+              "RelativeToolTip": "Torneo\\Entidad\\Campeonato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:13:28.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Estilo.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Estilo.cs",
+              "RelativeDocumentMoniker": "Torneo\\Entidad\\Estilo.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Estilo.cs",
+              "RelativeToolTip": "Torneo\\Entidad\\Estilo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:38:31.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Persona.cs",
+              "RelativeDocumentMoniker": "Torneo\\Entidad\\Persona.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Persona.cs",
+              "RelativeToolTip": "Torneo\\Entidad\\Persona.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA/wEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:51:55.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Elemento.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Elemento.cs",
+              "RelativeDocumentMoniker": "Torneo\\Entidad\\Elemento.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Elemento.cs",
+              "RelativeToolTip": "Torneo\\Entidad\\Elemento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:44:08.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bboy.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Bboy.cs",
+              "RelativeDocumentMoniker": "Torneo\\Entidad\\Bboy.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Entidad\\Bboy.cs",
+              "RelativeToolTip": "Torneo\\Entidad\\Bboy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:33:28.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Program.cs",
+              "RelativeDocumentMoniker": "Torneo\\Program.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Torneo\\Torneo\\Program.cs",
+              "RelativeToolTip": "Torneo\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:31:30.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EjercicioDocumentacion1</name>
+    </assembly>
+    <members>
+        <member name="T:EjercicioDocumentacion1.Point">
+            <summary>
+            Clase puntero que contiene dos atributos que equivalen a coordenadas
+            </summary>
+        </member>
+        <member name="F:EjercicioDocumentacion1.Point.X">
+            <value>
+            Coordenadas de ancho (x) y alto (y)
+            </value>
+        </member>
+        <member name="M:EjercicioDocumentacion1.Point.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Método constructor con los parámetros X e Y
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+        </member>
+        <member name="M:EjercicioDocumentacion1.Point.ObtenerCoordinadas">
+            <summary>
+            Unir los parámetros X e Y
+            </summary>
+            <returns>Valores X e Y concatenados</returns>
+        </member>
+        <member name="M:EjercicioDocumentacion1.Point.ObtenerCoordinadasSimples">
+            <summary>
+            Unir los parámetros X e Y
+            </summary>
+            <returns>Valores X e Y concatenados</returns>
+        </member>
+    </members>
+</doc>

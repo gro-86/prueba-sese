@@ -1,0 +1,10 @@
+C:\Users\formacion\Desktop\DIAGRAMAS\Ejercicios 02-09-2024\JuegoDado_Aurora_Benjamin\JuegoDado_Aurora_Benjamin\bin\Debug\JuegoDado_Aurora_Benjamin.exe.config
+C:\Users\formacion\Desktop\DIAGRAMAS\Ejercicios 02-09-2024\JuegoDado_Aurora_Benjamin\JuegoDado_Aurora_Benjamin\bin\Debug\JuegoDado_Aurora_Benjamin.exe
+C:\Users\formacion\Desktop\DIAGRAMAS\Ejercicios 02-09-2024\JuegoDado_Aurora_Benjamin\JuegoDado_Aurora_Benjamin\bin\Debug\JuegoDado_Aurora_Benjamin.pdb
+C:\Users\formacion\Desktop\DIAGRAMAS\Ejercicios 02-09-2024\JuegoDado_Aurora_Benjamin\JuegoDado_Aurora_Benjamin\obj\Debug\JuegoDado_Aurora_Benjamin.csproj.AssemblyReference.cache
+C:\Users\formacion\Desktop\DIAGRAMAS\Ejercicios 02-09-2024\JuegoDado_Aurora_Benjamin\JuegoDado_Aurora_Benjamin\obj\Debug\JuegoDado_Aurora_Benjamin.Form1.resources
+C:\Users\formacion\Desktop\DIAGRAMAS\Ejercicios 02-09-2024\JuegoDado_Aurora_Benjamin\JuegoDado_Aurora_Benjamin\obj\Debug\JuegoDado_Aurora_Benjamin.Properties.Resources.resources
+C:\Users\formacion\Desktop\DIAGRAMAS\Ejercicios 02-09-2024\JuegoDado_Aurora_Benjamin\JuegoDado_Aurora_Benjamin\obj\Debug\JuegoDado_Aurora_Benjamin.csproj.GenerateResource.cache
+C:\Users\formacion\Desktop\DIAGRAMAS\Ejercicios 02-09-2024\JuegoDado_Aurora_Benjamin\JuegoDado_Aurora_Benjamin\obj\Debug\JuegoDado_Aurora_Benjamin.csproj.CoreCompileInputs.cache
+C:\Users\formacion\Desktop\DIAGRAMAS\Ejercicios 02-09-2024\JuegoDado_Aurora_Benjamin\JuegoDado_Aurora_Benjamin\obj\Debug\JuegoDado_Aurora_Benjamin.exe
+C:\Users\formacion\Desktop\DIAGRAMAS\Ejercicios 02-09-2024\JuegoDado_Aurora_Benjamin\JuegoDado_Aurora_Benjamin\obj\Debug\JuegoDado_Aurora_Benjamin.pdb

@@ -1,0 +1,319 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="Página-1" id="eE05NIf79d4hvy7Uc5W-">
+    <mxGraphModel dx="2140" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-1" value="&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Escenario:&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Solicitud de Préstamo de un Libro en una Biblioteca&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Descripción:&lt;br&gt;Un usuario desea tomar prestado un libro de la biblioteca. Utiliza el&lt;br&gt;sistema de gestión de la biblioteca para buscar el libro, verificar&lt;br&gt;su disponibilidad y realizar la solicitud de préstamo. El&lt;br&gt;bibliotecario verifica la solicitud y actualiza el inventario.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Instrucciones:::&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Usuario:&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, serif;&quot;&gt;Inicia&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, serif;&quot;&gt;sesión en el sistema de gestión de la biblioteca.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Busca el libro deseado en el catálogo.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Selecciona el libro y solicita el préstamo.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Recibe una notificación sobre el estado de la solicitud.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Sistema:&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Recibe la solicitud de búsqueda del usuario.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Consulta el catálogo y muestra los resultados de la búsqueda.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Recibe la solicitud de préstamo del usuario.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Verifica la disponibilidad del libro en el inventario.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Actualiza el estado del libro en el inventario (de disponible a prestado).&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Envía una notificación al usuario sobre el estado de la solicitud.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Bibliotecario:&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Revisa las solicitudes de préstamo pendientes.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Verifica físicamente la disponibilidad del libro si es necesario.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Confirma la solicitud de préstamo en el sistema.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Gestiona la entrega del libro al usuario.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Diagrama de Secuencia:&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Usuario -&amp;gt; Sistema: Iniciar sesión.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Usuario -&amp;gt; busca un libro en el catálogo.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Usuario -&amp;gt; Sistema: Buscar libro.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Sistema -&amp;gt; muestra los resultados de la búsqueda al usuario.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Usuario -&amp;gt; selecciona un libro y solicita un préstamo.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Sistema&amp;nbsp;-&amp;gt; verifica la disponibilidad del libro.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Sistema&amp;nbsp;-&amp;gt; confirma el préstamo y actualiza el inventario.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Sistema&amp;nbsp;-&amp;gt; notifica al Usuario sobre el estado del préstamo.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Actores y objetos:&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, serif;&quot;&gt;Usuario:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, serif;&quot;&gt;Persona que utiliza el sistema para buscar y solicitar préstamos de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, serif;&quot;&gt;libros.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Bibliotecario: Persona que administra el sistema, verifica la disponibilidad y gestiona los préstamos.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, serif;&quot;&gt;Sistema:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, serif;&quot;&gt;La aplicación de gestión de la biblioteca que procesa las&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, serif;&quot;&gt;solicitudes y mantiene el inventario.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Catálogo: Base de datos que contiene la información de todos los libros disponibles en la biblioteca.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Libro: Objeto que representa cada libro en el catálogo.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Solicitud de Préstamo: Registro de la solicitud de un usuario para tomar prestado un libro.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font face=&quot;Courier New, serif&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;&lt;span style=&quot;background: #ffffff&quot;&gt;Inventario: Registro del estado actual de todos los libros (disponibles, prestados, etc.).&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="-1160" width="860" height="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-43" target="fTWVoe1ndJHDvdWaTVI0-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250.00000000000023" y="-500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="-840" />
+              <mxPoint x="250" y="-840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-43" value="Usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-44" value="Sistema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-45" value="Catalogo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-47" value="Inventario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1031" y="-1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-50" target="fTWVoe1ndJHDvdWaTVI0-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="-980" />
+              <mxPoint x="390" y="-980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-49" value="Iniciar sesión" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTWVoe1ndJHDvdWaTVI0-48">
+          <mxGeometry x="-0.1799" relative="1" as="geometry">
+            <mxPoint x="14" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-50" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="245" y="-990" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-44" target="fTWVoe1ndJHDvdWaTVI0-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="529.81" y="-920" as="targetPoint" />
+            <mxPoint x="529.8100000000002" y="-1070" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="530" y="-970" />
+              <mxPoint x="530" y="-970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-52" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="525" y="-990" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-53" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="805" y="-940" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-83" target="fTWVoe1ndJHDvdWaTVI0-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="-960" as="sourcePoint" />
+            <mxPoint x="805" y="-960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="-930" />
+              <mxPoint x="740" y="-930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-55" value="Consultar libro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTWVoe1ndJHDvdWaTVI0-54">
+          <mxGeometry x="-0.1799" relative="1" as="geometry">
+            <mxPoint x="14" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-47" target="fTWVoe1ndJHDvdWaTVI0-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1091" y="-990" as="targetPoint" />
+            <mxPoint x="1091" y="-1040" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1091" y="-860" />
+              <mxPoint x="1091" y="-860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-83" target="fTWVoe1ndJHDvdWaTVI0-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="815" y="-900" as="sourcePoint" />
+            <mxPoint x="545" y="-900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="-880" />
+              <mxPoint x="270" y="-880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-65" value="Mostrar resultados" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTWVoe1ndJHDvdWaTVI0-64">
+          <mxGeometry x="0.0996" y="2" relative="1" as="geometry">
+            <mxPoint x="3" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-67" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="245" y="-850" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-68" target="fTWVoe1ndJHDvdWaTVI0-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="-820" />
+              <mxPoint x="950" y="-820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-90" value="Verificar disponibilidad" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTWVoe1ndJHDvdWaTVI0-89">
+          <mxGeometry x="-0.1444" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-68" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="525" y="-850" width="10" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-72" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1086" y="-850" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-68" target="fTWVoe1ndJHDvdWaTVI0-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="815" y="-760" as="sourcePoint" />
+            <mxPoint x="545" y="-760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="-760" />
+              <mxPoint x="380" y="-760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-76" value="Notificar estado del prestamo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTWVoe1ndJHDvdWaTVI0-75">
+          <mxGeometry x="0.0996" y="2" relative="1" as="geometry">
+            <mxPoint x="10" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-83" target="fTWVoe1ndJHDvdWaTVI0-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="-980" as="targetPoint" />
+            <mxPoint x="540" y="-1030" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="530" y="-880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-45" target="fTWVoe1ndJHDvdWaTVI0-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="-980" as="targetPoint" />
+            <mxPoint x="540" y="-1030" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="810" y="-1000" />
+              <mxPoint x="810" y="-1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-80" value="Bibliotecario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="-1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-109" target="fTWVoe1ndJHDvdWaTVI0-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="-915" />
+              <mxPoint x="460" y="-915" />
+            </Array>
+            <mxPoint x="265" y="-970" as="sourcePoint" />
+            <mxPoint x="535" y="-970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-82" value="Buscar libro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTWVoe1ndJHDvdWaTVI0-81">
+          <mxGeometry x="-0.1799" relative="1" as="geometry">
+            <mxPoint x="14" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-83" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="525" y="-960" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="-903.59" />
+              <mxPoint x="660" y="-903.59" />
+            </Array>
+            <mxPoint x="806" y="-903.59" as="sourcePoint" />
+            <mxPoint x="535" y="-903.59" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-86" value="Resultados de busqueda" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTWVoe1ndJHDvdWaTVI0-85">
+          <mxGeometry x="0.0996" y="2" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="255" y="-830" as="sourcePoint" />
+            <mxPoint x="525" y="-830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-88" value="Solicitar préstamo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTWVoe1ndJHDvdWaTVI0-87">
+          <mxGeometry x="-0.1799" relative="1" as="geometry">
+            <mxPoint x="14" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-72" target="fTWVoe1ndJHDvdWaTVI0-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="-800" />
+              <mxPoint x="950" y="-800" />
+            </Array>
+            <mxPoint x="945.5" y="-790" as="sourcePoint" />
+            <mxPoint x="674.5" y="-790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-92" value="Confirmar disponibilidad" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTWVoe1ndJHDvdWaTVI0-91">
+          <mxGeometry x="0.0996" y="2" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-68" target="fTWVoe1ndJHDvdWaTVI0-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="-810" as="sourcePoint" />
+            <mxPoint x="1096" y="-810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="-780" />
+              <mxPoint x="670" y="-780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-95" value="Actualizar estado a prestado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTWVoe1ndJHDvdWaTVI0-94">
+          <mxGeometry x="-0.1444" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-80" target="fTWVoe1ndJHDvdWaTVI0-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1101" y="-840" as="targetPoint" />
+            <mxPoint x="1101" y="-1030" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1380" y="-760" />
+              <mxPoint x="1380" y="-760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-97" target="fTWVoe1ndJHDvdWaTVI0-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="-710" />
+              <mxPoint x="740" y="-710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-100" value="Revisar solicitud" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTWVoe1ndJHDvdWaTVI0-99">
+          <mxGeometry x="0.0298" y="4" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-97" target="fTWVoe1ndJHDvdWaTVI0-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="-630" />
+              <mxPoint x="750" y="-630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-106" value="Confirmar préstamo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTWVoe1ndJHDvdWaTVI0-105">
+          <mxGeometry x="0.164" y="1" relative="1" as="geometry">
+            <mxPoint x="59" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-97" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1375" y="-720" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-101" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1086" y="-680" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-97" target="fTWVoe1ndJHDvdWaTVI0-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="-640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1310" y="-670" />
+              <mxPoint x="1310" y="-670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-104" value="Confirmar disponibilidad física" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTWVoe1ndJHDvdWaTVI0-102">
+          <mxGeometry x="0.031" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-72" target="fTWVoe1ndJHDvdWaTVI0-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1101" y="-840" as="targetPoint" />
+            <mxPoint x="1101" y="-1030" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1091" y="-740" />
+              <mxPoint x="1091" y="-740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;" edge="1" parent="1" source="fTWVoe1ndJHDvdWaTVI0-52" target="fTWVoe1ndJHDvdWaTVI0-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="-980" as="targetPoint" />
+            <mxPoint x="540" y="-1030" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="530" y="-940" />
+              <mxPoint x="530" y="-940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTWVoe1ndJHDvdWaTVI0-109" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="245" y="-960" width="10" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

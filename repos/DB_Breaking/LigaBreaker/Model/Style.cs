@@ -1,0 +1,10 @@
+﻿namespace BreakingLeague.Model
+
+{
+    public enum Style
+    {
+
+        RYTHMIC, FLEXIBLE, FREESTYLER, ORIGINALITY, FLOW, BLOWERUP, TRANSFERER, TRICKER, POWERMOVER, TOPROCKER, FOOTWORKER, FREEZER
+
+    }
+}

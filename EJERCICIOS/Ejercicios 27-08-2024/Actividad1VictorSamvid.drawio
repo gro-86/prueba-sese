@@ -1,0 +1,137 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="Página-1" id="PoFWCZQ236Lpenq0vHcv">
+    <mxGraphModel dx="1802" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-1" target="8UQCT4z4PkMHKA5L1V-o-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-1" value="Frodo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-3" value="&lt;p style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Descripción :&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Frodo, tras recibir el Anillo Único, decide emprender un viaje para destruirlo en el Monte del Destino.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Gandalf le proporciona consejos y apoyo durante la travesía. Sauron, con el fin de recuperar el anillo, trata de impedir la misión de Frodo, utilizando a sus espectros como agentes de exclusión para desviar a Frodo de su camino. A lo largo de la historia, Frodo se enfrenta a varias decisiones y es asistido por Sam, que quiere ayudar a Frodo en la misión. Frodo puede optar por aceptar la ayuda de Sam o ir Solo, al igual que cuando se encuentra con los espectros enviados por Sauron puede optar intentar resistir y escapar o ser ayudado por Gandalf.Al final Frodo Bolsón llega al Monte del Destino, arrojando el anillo y consiguiendo destruir a Sauron.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Finalmente Frodo vuelve a casa.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="20" width="710" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-6" target="8UQCT4z4PkMHKA5L1V-o-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-6" target="8UQCT4z4PkMHKA5L1V-o-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-6" value="emprender viaje" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-8" target="8UQCT4z4PkMHKA5L1V-o-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-8" value="aceptar ayuda de sam" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-10" target="8UQCT4z4PkMHKA5L1V-o-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-10" target="8UQCT4z4PkMHKA5L1V-o-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-10" value="encontrarse con espectros de Sauron" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-17" target="8UQCT4z4PkMHKA5L1V-o-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-17" value="Gandalf" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="204" y="770" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-21" value="proporcionar consejos y apoyo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-25" target="8UQCT4z4PkMHKA5L1V-o-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-25" value="Sam" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="900" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-28" value="proporcionar ayuda" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="890" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-33" target="8UQCT4z4PkMHKA5L1V-o-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-33" value="resistir y escapar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-35" target="8UQCT4z4PkMHKA5L1V-o-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-35" value="ser ayudado por Gandalf" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-37" value="Actores involucrados: Frodo, Sauron, Gandalf, Sam&lt;div&gt;Precondición: Tener el anillo unico&lt;/div&gt;&lt;div&gt;Flujo básico:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Frodo emprende el viaje&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Sam proporciona ayuda&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Gandalf proporciona consejos y apoyo&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Frodo acepta ayuda de Sam&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Sauron intenta recuperar el anillo&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Sauron envia a espectros a por el anillo&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Frodo resiste y escapa&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Frodo intenta destruir el anillo&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Frodo arroja el anillo al monte del destino&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Frodo vuelve a casa&lt;/div&gt;&lt;div&gt;Caminos alternativos: En el paso 4 Frodo va solo en su aventura, en el paso 7 Frodo es ayudado por Gandalf.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Postcondicion: El camino de vuelta a casa es exitoso.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="700" width="530" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-38" target="8UQCT4z4PkMHKA5L1V-o-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-38" value="ir solo en su aventura" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-43" target="8UQCT4z4PkMHKA5L1V-o-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-43" value="destruir a Sauron" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-46" target="8UQCT4z4PkMHKA5L1V-o-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360" y="470" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-46" value="arrojar anillo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-48" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1108" y="468" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-50" value="volver a casa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-52" target="8UQCT4z4PkMHKA5L1V-o-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-52" value="Sauron" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="8UQCT4z4PkMHKA5L1V-o-55" target="8UQCT4z4PkMHKA5L1V-o-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-55" value="recuperar anillo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-58" value="enviar a espectros" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8UQCT4z4PkMHKA5L1V-o-59" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="680" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,26 @@
+Desarrolla el diagrama de clases.
+
+Tenemos cinco clases: 
+	Clase Aldea 
+	Clase Ninja 
+	Clase ninja renegado 
+	Clase Kage(Jefe)
+	Clase Genin(Soldado de alto rango)
+
+- Las clases Kage, Genin y Renegado heredan de la clase Ninja.
+- Una aldea solo existe si tiene uno o varios ninjas y un ninja solo puede pertenecer a una aldea.
+- Como métodos de la aldea tenemos:
+	público void hacerAliados() 
+	privado bool ocultarBiju() 
+- Como atributos de la aldea:
+	público nombre: string, 
+	público elemento: string
+- La clase Ninja tiene como atributos 
+	público nombre: string
+- La clase Kage tiene como método
+ 	público int condenarRenegado()
+- La clase Genin tiene como método 
+	público bool perseguirRenegado()
+- La clase Renegado tiene como método 
+	público bool huir()
+

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\formacion\\source\\repos\\LigaBreaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E681835E-C4DA-4458-9840-421C8D0EEAD1}|LigaBreaker\\BreakingLeague.csproj|c:\\users\\formacion\\source\\repos\\ligabreaker\\ligabreaker\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E681835E-C4DA-4458-9840-421C8D0EEAD1}|LigaBreaker\\BreakingLeague.csproj|solutionrelative:ligabreaker\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E681835E-C4DA-4458-9840-421C8D0EEAD1}|LigaBreaker\\BreakingLeague.csproj|c:\\users\\formacion\\source\\repos\\ligabreaker\\ligabreaker\\program_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E681835E-C4DA-4458-9840-421C8D0EEAD1}|LigaBreaker\\BreakingLeague.csproj|solutionrelative:ligabreaker\\program_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E681835E-C4DA-4458-9840-421C8D0EEAD1}|LigaBreaker\\BreakingLeague.csproj|c:\\users\\formacion\\source\\repos\\ligabreaker\\ligabreaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E681835E-C4DA-4458-9840-421C8D0EEAD1}|LigaBreaker\\BreakingLeague.csproj|solutionrelative:ligabreaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E681835E-C4DA-4458-9840-421C8D0EEAD1}|LigaBreaker\\BreakingLeague.csproj|c:\\users\\formacion\\source\\repos\\ligabreaker\\ligabreaker\\model\\bboy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E681835E-C4DA-4458-9840-421C8D0EEAD1}|LigaBreaker\\BreakingLeague.csproj|solutionrelative:ligabreaker\\model\\bboy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E681835E-C4DA-4458-9840-421C8D0EEAD1}|LigaBreaker\\BreakingLeague.csproj|c:\\users\\formacion\\source\\repos\\ligabreaker\\ligabreaker\\controller\\ifunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E681835E-C4DA-4458-9840-421C8D0EEAD1}|LigaBreaker\\BreakingLeague.csproj|solutionrelative:ligabreaker\\controller\\ifunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program_.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\LigaBreaker\\LigaBreaker\\Program_.cs",
+              "RelativeDocumentMoniker": "LigaBreaker\\Program_.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\LigaBreaker\\LigaBreaker\\Program_.cs",
+              "RelativeToolTip": "LigaBreaker\\Program_.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:23:26.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\LigaBreaker\\LigaBreaker\\Program.cs",
+              "RelativeDocumentMoniker": "LigaBreaker\\Program.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\LigaBreaker\\LigaBreaker\\Program.cs",
+              "RelativeToolTip": "LigaBreaker\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:02:57.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bboy.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\LigaBreaker\\LigaBreaker\\Model\\Bboy.cs",
+              "RelativeDocumentMoniker": "LigaBreaker\\Model\\Bboy.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\LigaBreaker\\LigaBreaker\\Model\\Bboy.cs",
+              "RelativeToolTip": "LigaBreaker\\Model\\Bboy.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:50:06.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\LigaBreaker\\LigaBreaker\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LigaBreaker\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\LigaBreaker\\LigaBreaker\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LigaBreaker\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:19:27.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFunciones.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\LigaBreaker\\LigaBreaker\\Controller\\IFunciones.cs",
+              "RelativeDocumentMoniker": "LigaBreaker\\Controller\\IFunciones.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\LigaBreaker\\LigaBreaker\\Controller\\IFunciones.cs",
+              "RelativeToolTip": "LigaBreaker\\Controller\\IFunciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:13:18.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

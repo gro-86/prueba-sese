@@ -1,0 +1,172 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
+    <mxGraphModel dx="1909" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="382b91b5511bd0f7-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="140" y="635" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="382b91b5511bd0f7-6" value="Abrir app" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="250" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2a3bc250acf0617d-9" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;" parent="1" source="382b91b5511bd0f7-1" target="382b91b5511bd0f7-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-1" value="&lt;p style=&quot;margin-top: 0.42cm; margin-bottom: 0.42cm; background: #ffffff; line-height: 100%&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;Actividad&lt;br&gt;1: Modelar una app de limpieza del pc&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0.42cm; margin-bottom: 0.42cm; background: #ffffff; line-height: 100%&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;Descripción:&lt;br&gt;Es la típica app de limpieza de pc&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0.42cm; margin-bottom: 0.42cm; background: #ffffff; line-height: 100%&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;Condiciones:&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0.42cm; margin-bottom: 0.42cm; background: #ffffff; line-height: 100%&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;La aplicación comienza haciendo doble click en el icono.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0.42cm; margin-bottom: 0.42cm; background: #ffffff; line-height: 100%&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;Y termina cuando finaliza la limpieza del PC generando un informe.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0.42cm; margin-bottom: 0.42cm; background: #ffffff; line-height: 100%&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;La app puede hacer una limpieza simple:&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0.42cm; margin-bottom: 0.42cm; background: #ffffff; line-height: 100%&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;-Limpiar archivos temporales del sistema&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0.42cm; margin-bottom: 0.42cm; background: #ffffff; line-height: 100%&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;-Limpiar cookies del navegador&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0.42cm; margin-bottom: 0.42cm; background: #ffffff; line-height: 100%&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;-Limpieza de registro&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0.42cm; margin-bottom: 0.42cm; background: #ffffff; line-height: 100%&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;Para la opción de limpieza de registro avisa de los posibles riesgos&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0.42cm; margin-bottom: 0.42cm; background: #ffffff; line-height: 100%&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;La app puede hacer una limpieza global de todo el sistema de 2 tipos:&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0.42cm; margin-bottom: 0.42cm; background: #ffffff; line-height: 100%&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;1-rápida&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0.42cm; margin-bottom: 0.42cm; background: #ffffff; line-height: 100%&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;2-Profunda&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm; background: #ffffff&quot;&gt;&lt;font style=&quot;font-size: 10pt&quot;&gt;Para la opción de limpieza profunda avisa de los posibles riesgos&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="5" width="440" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-2" value="App limpieza pc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="665" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-4" target="7nyGHDJC-nnY08vi3dVh-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-4" value="Limpieza simple" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-5" target="7nyGHDJC-nnY08vi3dVh-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-5" value="Limpieza global" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-11" target="7nyGHDJC-nnY08vi3dVh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="650" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-11" target="7nyGHDJC-nnY08vi3dVh-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="650" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="382b91b5511bd0f7-6" target="7nyGHDJC-nnY08vi3dVh-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="650" as="sourcePoint" />
+            <mxPoint x="430" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="630" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-13" target="7nyGHDJC-nnY08vi3dVh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-13" target="7nyGHDJC-nnY08vi3dVh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-13" target="7nyGHDJC-nnY08vi3dVh-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="540" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-15" target="7nyGHDJC-nnY08vi3dVh-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1130" y="440" />
+              <mxPoint x="1130" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-15" value="Limpiar archivos temporales del sistema" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-17" target="7nyGHDJC-nnY08vi3dVh-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1310" y="560" />
+              <mxPoint x="1310" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-17" value="Limpiar cookies del navegador" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="890" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-32" target="7nyGHDJC-nnY08vi3dVh-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-19" value="Limpieza del registro" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-21" target="7nyGHDJC-nnY08vi3dVh-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1330" y="710" />
+              <mxPoint x="1330" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-21" value="Avisar posibles riesgos" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-23" target="7nyGHDJC-nnY08vi3dVh-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-23" target="7nyGHDJC-nnY08vi3dVh-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="710" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-25" value="Limpieza profunda" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="790" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-25" target="7nyGHDJC-nnY08vi3dVh-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="730" />
+              <mxPoint x="940" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-27" target="7nyGHDJC-nnY08vi3dVh-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="819.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1330" y="820" />
+              <mxPoint x="1330" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-27" value="Limpieza rapida" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="650" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-19" target="7nyGHDJC-nnY08vi3dVh-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="650" as="sourcePoint" />
+            <mxPoint x="1080" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="650" />
+              <mxPoint x="940" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1010" y="640" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-38" target="7nyGHDJC-nnY08vi3dVh-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-38" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1420" y="450" width="10" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7nyGHDJC-nnY08vi3dVh-40" target="7nyGHDJC-nnY08vi3dVh-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-40" value="Generar informe" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nyGHDJC-nnY08vi3dVh-41" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="610" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

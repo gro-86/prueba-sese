@@ -1,0 +1,4 @@
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\LigaBreaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\LigaBreaker.AssemblyInfoInputs.cache
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\LigaBreaker.AssemblyInfo.cs
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\LigaBreaker.csproj.CoreCompileInputs.cache

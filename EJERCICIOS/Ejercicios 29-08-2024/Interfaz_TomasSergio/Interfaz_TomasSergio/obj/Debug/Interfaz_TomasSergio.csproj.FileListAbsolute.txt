@@ -1,0 +1,10 @@
+C:\Users\formacion\source\repos\Interfaz_TomasSergio\Interfaz_TomasSergio\bin\Debug\Interfaz_TomasSergio.exe.config
+C:\Users\formacion\source\repos\Interfaz_TomasSergio\Interfaz_TomasSergio\bin\Debug\Interfaz_TomasSergio.exe
+C:\Users\formacion\source\repos\Interfaz_TomasSergio\Interfaz_TomasSergio\bin\Debug\Interfaz_TomasSergio.pdb
+C:\Users\formacion\source\repos\Interfaz_TomasSergio\Interfaz_TomasSergio\obj\Debug\Interfaz_TomasSergio.csproj.AssemblyReference.cache
+C:\Users\formacion\source\repos\Interfaz_TomasSergio\Interfaz_TomasSergio\obj\Debug\Interfaz_TomasSergio.Form1.resources
+C:\Users\formacion\source\repos\Interfaz_TomasSergio\Interfaz_TomasSergio\obj\Debug\Interfaz_TomasSergio.Properties.Resources.resources
+C:\Users\formacion\source\repos\Interfaz_TomasSergio\Interfaz_TomasSergio\obj\Debug\Interfaz_TomasSergio.csproj.GenerateResource.cache
+C:\Users\formacion\source\repos\Interfaz_TomasSergio\Interfaz_TomasSergio\obj\Debug\Interfaz_TomasSergio.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\Interfaz_TomasSergio\Interfaz_TomasSergio\obj\Debug\Interfaz_TomasSergio.exe
+C:\Users\formacion\source\repos\Interfaz_TomasSergio\Interfaz_TomasSergio\obj\Debug\Interfaz_TomasSergio.pdb

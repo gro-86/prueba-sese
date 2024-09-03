@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\formacion\\source\\repos\\EjerciciosPlanteados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E4B7D1-9F8C-4D6E-AE08-98D314470CF5}|EjerciciosPlanteados\\EjerciciosPlanteados.csproj|c:\\users\\formacion\\source\\repos\\ejerciciosplanteados\\ejerciciosplanteados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E4B7D1-9F8C-4D6E-AE08-98D314470CF5}|EjerciciosPlanteados\\EjerciciosPlanteados.csproj|solutionrelative:ejerciciosplanteados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E4B7D1-9F8C-4D6E-AE08-98D314470CF5}|EjerciciosPlanteados\\EjerciciosPlanteados.csproj|c:\\users\\formacion\\source\\repos\\ejerciciosplanteados\\ejerciciosplanteados\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E4B7D1-9F8C-4D6E-AE08-98D314470CF5}|EjerciciosPlanteados\\EjerciciosPlanteados.csproj|solutionrelative:ejerciciosplanteados\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjerciciosPlanteados\\EjerciciosPlanteados\\Program2.cs",
+              "RelativeDocumentMoniker": "EjerciciosPlanteados\\Program2.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjerciciosPlanteados\\EjerciciosPlanteados\\Program2.cs",
+              "RelativeToolTip": "EjerciciosPlanteados\\Program2.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:22:17.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\EjerciciosPlanteados\\EjerciciosPlanteados\\Program.cs",
+              "RelativeDocumentMoniker": "EjerciciosPlanteados\\Program.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\EjerciciosPlanteados\\EjerciciosPlanteados\\Program.cs",
+              "RelativeToolTip": "EjerciciosPlanteados\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAmwDkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:48:25.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

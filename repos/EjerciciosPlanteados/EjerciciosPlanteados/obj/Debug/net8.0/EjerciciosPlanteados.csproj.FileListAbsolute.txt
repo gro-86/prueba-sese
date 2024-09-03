@@ -1,0 +1,14 @@
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\obj\Debug\net8.0\EjerciciosPlanteados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\obj\Debug\net8.0\EjerciciosPlanteados.AssemblyInfoInputs.cache
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\obj\Debug\net8.0\EjerciciosPlanteados.AssemblyInfo.cs
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\obj\Debug\net8.0\EjerciciosPlanteados.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\bin\Debug\net8.0\EjerciciosPlanteados.exe
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\bin\Debug\net8.0\EjerciciosPlanteados.deps.json
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\bin\Debug\net8.0\EjerciciosPlanteados.runtimeconfig.json
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\bin\Debug\net8.0\EjerciciosPlanteados.dll
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\bin\Debug\net8.0\EjerciciosPlanteados.pdb
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\obj\Debug\net8.0\EjerciciosPlanteados.dll
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\obj\Debug\net8.0\refint\EjerciciosPlanteados.dll
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\obj\Debug\net8.0\EjerciciosPlanteados.pdb
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\obj\Debug\net8.0\EjerciciosPlanteados.genruntimeconfig.cache
+C:\Users\formacion\source\repos\EjerciciosPlanteados\EjerciciosPlanteados\obj\Debug\net8.0\ref\EjerciciosPlanteados.dll

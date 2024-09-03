@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\formacion\\source\\repos\\Libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C97F67F6-0232-41C6-904D-A2991D0F9C8E}|Libreria\\Libreria.csproj|c:\\users\\formacion\\source\\repos\\libreria\\libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97F67F6-0232-41C6-904D-A2991D0F9C8E}|Libreria\\Libreria.csproj|solutionrelative:libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97F67F6-0232-41C6-904D-A2991D0F9C8E}|Libreria\\Libreria.csproj|c:\\users\\formacion\\source\\repos\\libreria\\libreria\\igestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97F67F6-0232-41C6-904D-A2991D0F9C8E}|Libreria\\Libreria.csproj|solutionrelative:libreria\\igestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97F67F6-0232-41C6-904D-A2991D0F9C8E}|Libreria\\Libreria.csproj|c:\\users\\formacion\\source\\repos\\libreria\\libreria\\repository\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97F67F6-0232-41C6-904D-A2991D0F9C8E}|Libreria\\Libreria.csproj|solutionrelative:libreria\\repository\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97F67F6-0232-41C6-904D-A2991D0F9C8E}|Libreria\\Libreria.csproj|c:\\users\\formacion\\source\\repos\\libreria\\libreria\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97F67F6-0232-41C6-904D-A2991D0F9C8E}|Libreria\\Libreria.csproj|solutionrelative:libreria\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGestor.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Libreria\\Libreria\\IGestor.cs",
+              "RelativeDocumentMoniker": "Libreria\\IGestor.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Libreria\\Libreria\\IGestor.cs",
+              "RelativeToolTip": "Libreria\\IGestor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:09:44.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublisherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Libreria\\Libreria\\Repository\\PublisherRepository.cs",
+              "RelativeDocumentMoniker": "Libreria\\Repository\\PublisherRepository.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Libreria\\Libreria\\Repository\\PublisherRepository.cs",
+              "RelativeToolTip": "Libreria\\Repository\\PublisherRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:09:39.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Libreria\\Libreria\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Libreria\\Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Libreria\\Libreria\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Libreria\\Repository\\BookRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:09:28.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\Libreria\\Libreria\\Program.cs",
+              "RelativeDocumentMoniker": "Libreria\\Program.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\Libreria\\Libreria\\Program.cs",
+              "RelativeToolTip": "Libreria\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:27:48.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

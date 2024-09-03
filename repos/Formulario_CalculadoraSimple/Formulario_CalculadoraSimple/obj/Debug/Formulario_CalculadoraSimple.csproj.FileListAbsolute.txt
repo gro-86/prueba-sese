@@ -1,0 +1,10 @@
+C:\Users\formacion\source\repos\Formulario_CalculadoraSimple\Formulario_CalculadoraSimple\bin\Debug\Formulario_CalculadoraSimple.exe.config
+C:\Users\formacion\source\repos\Formulario_CalculadoraSimple\Formulario_CalculadoraSimple\bin\Debug\Formulario_CalculadoraSimple.exe
+C:\Users\formacion\source\repos\Formulario_CalculadoraSimple\Formulario_CalculadoraSimple\bin\Debug\Formulario_CalculadoraSimple.pdb
+C:\Users\formacion\source\repos\Formulario_CalculadoraSimple\Formulario_CalculadoraSimple\obj\Debug\Formulario_CalculadoraSimple.csproj.AssemblyReference.cache
+C:\Users\formacion\source\repos\Formulario_CalculadoraSimple\Formulario_CalculadoraSimple\obj\Debug\Formulario_CalculadoraSimple.Form1.resources
+C:\Users\formacion\source\repos\Formulario_CalculadoraSimple\Formulario_CalculadoraSimple\obj\Debug\Formulario_CalculadoraSimple.Properties.Resources.resources
+C:\Users\formacion\source\repos\Formulario_CalculadoraSimple\Formulario_CalculadoraSimple\obj\Debug\Formulario_CalculadoraSimple.csproj.GenerateResource.cache
+C:\Users\formacion\source\repos\Formulario_CalculadoraSimple\Formulario_CalculadoraSimple\obj\Debug\Formulario_CalculadoraSimple.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\Formulario_CalculadoraSimple\Formulario_CalculadoraSimple\obj\Debug\Formulario_CalculadoraSimple.exe
+C:\Users\formacion\source\repos\Formulario_CalculadoraSimple\Formulario_CalculadoraSimple\obj\Debug\Formulario_CalculadoraSimple.pdb

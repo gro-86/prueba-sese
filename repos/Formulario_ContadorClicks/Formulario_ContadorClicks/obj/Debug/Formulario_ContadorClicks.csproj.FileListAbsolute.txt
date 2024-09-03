@@ -1,0 +1,10 @@
+C:\Users\formacion\source\repos\Formulario_ContadorClicks\Formulario_ContadorClicks\obj\Debug\Formulario_ContadorClicks.csproj.AssemblyReference.cache
+C:\Users\formacion\source\repos\Formulario_ContadorClicks\Formulario_ContadorClicks\obj\Debug\Formulario_ContadorClicks.Form1.resources
+C:\Users\formacion\source\repos\Formulario_ContadorClicks\Formulario_ContadorClicks\obj\Debug\Formulario_ContadorClicks.Properties.Resources.resources
+C:\Users\formacion\source\repos\Formulario_ContadorClicks\Formulario_ContadorClicks\obj\Debug\Formulario_ContadorClicks.csproj.GenerateResource.cache
+C:\Users\formacion\source\repos\Formulario_ContadorClicks\Formulario_ContadorClicks\obj\Debug\Formulario_ContadorClicks.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\Formulario_ContadorClicks\Formulario_ContadorClicks\bin\Debug\Formulario_ContadorClicks.exe.config
+C:\Users\formacion\source\repos\Formulario_ContadorClicks\Formulario_ContadorClicks\bin\Debug\Formulario_ContadorClicks.exe
+C:\Users\formacion\source\repos\Formulario_ContadorClicks\Formulario_ContadorClicks\bin\Debug\Formulario_ContadorClicks.pdb
+C:\Users\formacion\source\repos\Formulario_ContadorClicks\Formulario_ContadorClicks\obj\Debug\Formulario_ContadorClicks.exe
+C:\Users\formacion\source\repos\Formulario_ContadorClicks\Formulario_ContadorClicks\obj\Debug\Formulario_ContadorClicks.pdb

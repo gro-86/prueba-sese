@@ -1,0 +1,15 @@
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\BreakingLeague.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\BreakingLeague.AssemblyInfoInputs.cache
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\BreakingLeague.AssemblyInfo.cs
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\BreakingLeague.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\bin\Debug\net8.0\BreakingLeague.exe
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\bin\Debug\net8.0\BreakingLeague.deps.json
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\bin\Debug\net8.0\BreakingLeague.runtimeconfig.json
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\bin\Debug\net8.0\BreakingLeague.dll
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\bin\Debug\net8.0\BreakingLeague.pdb
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\BreakingLeague.dll
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\refint\BreakingLeague.dll
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\BreakingLeague.pdb
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\BreakingLeague.genruntimeconfig.cache
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\ref\BreakingLeague.dll
+C:\Users\formacion\source\repos\LigaBreaker\LigaBreaker\obj\Debug\net8.0\BreakingLeague.csproj.AssemblyReference.cache

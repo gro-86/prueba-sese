@@ -1,0 +1,192 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="Página-1" id="GlbZUSpAwih39hzjDfmf">
+    <mxGraphModel dx="1400" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-1" value="&lt;p style=&quot;margin-bottom: 0cm; line-height: 115%&quot;&gt;Enunciado:&lt;br&gt;BATALLA POKÉMON&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0.35cm; line-height: 115%&quot;&gt;Durante nuestra aventura, nos encontramos con un Pokémon salvaje y queremos capturarlo a toda costa. Así que iniciamos la pelea contra el&lt;br&gt;pokémon, se activa el estado &quot;Sacar un Pokémon&quot;.&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0.35cm; line-height: 115%&quot;&gt;Una vez que seleccionamos un Pokémon, entramos en el estado &quot;Esperar acción&quot;, donde se nos presentan varias opciones:&lt;/p&gt;&lt;ul&gt;&#x9;&lt;li&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 115%&quot;&gt;Usar una poción: Esta acción nos permite curar a nuestro Pokémon, lo que nos regresa al estado &quot;Esperar acción&quot;.&lt;/p&gt;&#x9;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 115%&quot;&gt;Realizar un movimiento: Al elegir usar un movimiento, podemos atacar al Pokémon salvaje. Dependiendo del resultado del ataque:&lt;/p&gt;&lt;ul&gt;&#x9;&#x9;&lt;li&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 115%&quot;&gt;Si logramos derrotar al Pokémon salvaje, la batalla termina y no podemos capturar al pokemon.&lt;/p&gt;&#x9;&#x9;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 115%&quot;&gt;Si el Pokémon salvaje sobrevive al ataque y regresamos al estado &quot;Esperar acción&quot;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&#x9;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 115%&quot;&gt;Usar una Poké Ball: Esta opción nos permite intentar capturar al Pokémon salvaje. Al usarla, pueden ocurrir dos resultados&lt;/p&gt;&lt;ul&gt;&#x9;&#x9;&lt;li&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 115%&quot;&gt;Si el Pokémon está debilitado es capturado exitosamente, la batalla finaliza.&lt;/p&gt;&#x9;&#x9;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;margin-bottom: 0.35cm; line-height: 115%&quot;&gt;Si el Pokémon no está debilitado logra escaparse de la Poké Ball y regresamos nuevamente al estado &quot;Esperar acción&quot;.&lt;/p&gt;&lt;br&gt;&#x9;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry width="780" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="780" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="LvbGbKNZHbAHMOsDAALg-2" parent="1" target="LvbGbKNZHbAHMOsDAALg-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-6" value="Sacar pokemon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LvbGbKNZHbAHMOsDAALg-3">
+          <mxGeometry x="-0.3257" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-14" target="LvbGbKNZHbAHMOsDAALg-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-5" value="Pokemon sacado" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="775" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-9" target="LvbGbKNZHbAHMOsDAALg-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="574" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-11" value="usar poción" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LvbGbKNZHbAHMOsDAALg-10">
+          <mxGeometry x="0.0728" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-9" target="LvbGbKNZHbAHMOsDAALg-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="796" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-20" value="realizar movimiento" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LvbGbKNZHbAHMOsDAALg-19">
+          <mxGeometry x="-0.0912" y="3" relative="1" as="geometry">
+            <mxPoint x="3" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-9" target="LvbGbKNZHbAHMOsDAALg-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="654" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-43" value="usar pokeball" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LvbGbKNZHbAHMOsDAALg-42">
+          <mxGeometry x="-0.2388" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="632" y="773" width="44" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-35" target="LvbGbKNZHbAHMOsDAALg-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="530" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="780" y="480" />
+              <mxPoint x="504" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-18" value="esperar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LvbGbKNZHbAHMOsDAALg-17">
+          <mxGeometry x="0.1152" y="-4" relative="1" as="geometry">
+            <mxPoint x="4" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-12" target="LvbGbKNZHbAHMOsDAALg-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="654" y="610" />
+              <mxPoint x="775" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-12" value="Pokemon curado" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="584" y="670" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-5" target="LvbGbKNZHbAHMOsDAALg-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="588" y="793" as="targetPoint" />
+            <mxPoint x="350" y="795" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-16" value="esperar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LvbGbKNZHbAHMOsDAALg-15">
+          <mxGeometry x="-0.3857" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-14" value="Esperando accion" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="434" y="775" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-23" target="LvbGbKNZHbAHMOsDAALg-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-32" value="seguir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LvbGbKNZHbAHMOsDAALg-31">
+          <mxGeometry x="0.0238" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-23" value="Pokemon atacando" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="810" y="775" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-26" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="780.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-23" target="LvbGbKNZHbAHMOsDAALg-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="796" as="targetPoint" />
+            <mxPoint x="950" y="795" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-29" value="ganar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LvbGbKNZHbAHMOsDAALg-28">
+          <mxGeometry x="-0.1454" y="-2" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-27" target="LvbGbKNZHbAHMOsDAALg-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-27" value="Pokemon salvaje debilitado" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="775" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-33" target="LvbGbKNZHbAHMOsDAALg-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="610" />
+              <mxPoint x="775" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-33" value="Pokemon salvaje con vida" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="810" y="670" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rotation=90;portConstraintRotation=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="500" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-44" target="LvbGbKNZHbAHMOsDAALg-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-44" target="LvbGbKNZHbAHMOsDAALg-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-44" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rotation=90;portConstraintRotation=1;" vertex="1" parent="1">
+          <mxGeometry x="649" y="860" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-47" target="LvbGbKNZHbAHMOsDAALg-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-47" value="pokemon salvaje capturado" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="960" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-49" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1060" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvbGbKNZHbAHMOsDAALg-51" target="LvbGbKNZHbAHMOsDAALg-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="980" />
+              <mxPoint x="1280" y="610" />
+              <mxPoint x="775" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-51" value="pokemon salvaje escapado" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="670" y="960" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LvbGbKNZHbAHMOsDAALg-53" value="Entrenador&lt;div&gt;Pokemon&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="813" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

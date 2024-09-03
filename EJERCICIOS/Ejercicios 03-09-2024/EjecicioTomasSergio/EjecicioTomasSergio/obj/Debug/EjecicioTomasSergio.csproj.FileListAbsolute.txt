@@ -1,0 +1,10 @@
+C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\EjecicioTomasSergio\EjecicioTomasSergio\bin\Debug\EjecicioTomasSergio.exe.config
+C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\EjecicioTomasSergio\EjecicioTomasSergio\bin\Debug\EjecicioTomasSergio.exe
+C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\EjecicioTomasSergio\EjecicioTomasSergio\bin\Debug\EjecicioTomasSergio.pdb
+C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\EjecicioTomasSergio\EjecicioTomasSergio\obj\Debug\EjecicioTomasSergio.csproj.AssemblyReference.cache
+C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\EjecicioTomasSergio\EjecicioTomasSergio\obj\Debug\EjecicioTomasSergio.Form1.resources
+C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\EjecicioTomasSergio\EjecicioTomasSergio\obj\Debug\EjecicioTomasSergio.Properties.Resources.resources
+C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\EjecicioTomasSergio\EjecicioTomasSergio\obj\Debug\EjecicioTomasSergio.csproj.GenerateResource.cache
+C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\EjecicioTomasSergio\EjecicioTomasSergio\obj\Debug\EjecicioTomasSergio.csproj.CoreCompileInputs.cache
+C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\EjecicioTomasSergio\EjecicioTomasSergio\obj\Debug\EjecicioTomasSergio.exe
+C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\EjecicioTomasSergio\EjecicioTomasSergio\obj\Debug\EjecicioTomasSergio.pdb

@@ -1,0 +1,10 @@
+C:\Users\formacion\source\repos\Formulario_HolaMundo\Formulario_HolaMundo\bin\Debug\Formulario_HolaMundo.exe.config
+C:\Users\formacion\source\repos\Formulario_HolaMundo\Formulario_HolaMundo\bin\Debug\Formulario_HolaMundo.exe
+C:\Users\formacion\source\repos\Formulario_HolaMundo\Formulario_HolaMundo\bin\Debug\Formulario_HolaMundo.pdb
+C:\Users\formacion\source\repos\Formulario_HolaMundo\Formulario_HolaMundo\obj\Debug\Formulario_HolaMundo.csproj.AssemblyReference.cache
+C:\Users\formacion\source\repos\Formulario_HolaMundo\Formulario_HolaMundo\obj\Debug\Formulario_HolaMundo.Form1.resources
+C:\Users\formacion\source\repos\Formulario_HolaMundo\Formulario_HolaMundo\obj\Debug\Formulario_HolaMundo.Properties.Resources.resources
+C:\Users\formacion\source\repos\Formulario_HolaMundo\Formulario_HolaMundo\obj\Debug\Formulario_HolaMundo.csproj.GenerateResource.cache
+C:\Users\formacion\source\repos\Formulario_HolaMundo\Formulario_HolaMundo\obj\Debug\Formulario_HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\Formulario_HolaMundo\Formulario_HolaMundo\obj\Debug\Formulario_HolaMundo.exe
+C:\Users\formacion\source\repos\Formulario_HolaMundo\Formulario_HolaMundo\obj\Debug\Formulario_HolaMundo.pdb

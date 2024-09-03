@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\formacion\\source\\repos\\PruebasUnitarias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9059DFA-AF63-48DD-A35F-16AA45025287}|TestProject1\\TestProject1.csproj|c:\\users\\formacion\\source\\repos\\pruebasunitarias\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9059DFA-AF63-48DD-A35F-16AA45025287}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D4071A-83B7-489F-A4BE-287ADB422502}|PruebasUnitarias\\PruebasUnitarias.csproj|c:\\users\\formacion\\source\\repos\\pruebasunitarias\\pruebasunitarias\\calculadura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D4071A-83B7-489F-A4BE-287ADB422502}|PruebasUnitarias\\PruebasUnitarias.csproj|solutionrelative:pruebasunitarias\\calculadura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D4071A-83B7-489F-A4BE-287ADB422502}|PruebasUnitarias\\PruebasUnitarias.csproj|c:\\users\\formacion\\source\\repos\\pruebasunitarias\\pruebasunitarias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D4071A-83B7-489F-A4BE-287ADB422502}|PruebasUnitarias\\PruebasUnitarias.csproj|solutionrelative:pruebasunitarias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\PruebasUnitarias\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\PruebasUnitarias\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwCYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:50:23.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadura.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\PruebasUnitarias\\PruebasUnitarias\\Calculadura.cs",
+              "RelativeDocumentMoniker": "PruebasUnitarias\\Calculadura.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\PruebasUnitarias\\PruebasUnitarias\\Calculadura.cs",
+              "RelativeToolTip": "PruebasUnitarias\\Calculadura.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAgwGIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:48:22.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\source\\repos\\PruebasUnitarias\\PruebasUnitarias\\Program.cs",
+              "RelativeDocumentMoniker": "PruebasUnitarias\\Program.cs",
+              "ToolTip": "C:\\Users\\formacion\\source\\repos\\PruebasUnitarias\\PruebasUnitarias\\Program.cs",
+              "RelativeToolTip": "PruebasUnitarias\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:47:42.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
