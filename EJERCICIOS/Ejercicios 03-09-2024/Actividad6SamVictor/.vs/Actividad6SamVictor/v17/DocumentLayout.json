@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades6\\Actividad6SamVictor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F145B609-F376-4A27-85FF-E830BCFE9B9B}|Actividad6SamVictor\\Actividad6SamVictor.csproj|c:\\users\\formacion\\desktop\\lorenzo\\formacionsese\\ultimomodulo\\ejercicioscomun\\actividades6\\actividad6samvictor\\actividad6samvictor\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F145B609-F376-4A27-85FF-E830BCFE9B9B}|Actividad6SamVictor\\Actividad6SamVictor.csproj|solutionrelative:actividad6samvictor\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F145B609-F376-4A27-85FF-E830BCFE9B9B}|Actividad6SamVictor\\Actividad6SamVictor.csproj|c:\\users\\formacion\\desktop\\lorenzo\\formacionsese\\ultimomodulo\\ejercicioscomun\\actividades6\\actividad6samvictor\\actividad6samvictor\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F145B609-F376-4A27-85FF-E830BCFE9B9B}|Actividad6SamVictor\\Actividad6SamVictor.csproj|solutionrelative:actividad6samvictor\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F145B609-F376-4A27-85FF-E830BCFE9B9B}|Actividad6SamVictor\\Actividad6SamVictor.csproj|c:\\users\\formacion\\desktop\\lorenzo\\formacionsese\\ultimomodulo\\ejercicioscomun\\actividades6\\actividad6samvictor\\actividad6samvictor\\infojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F145B609-F376-4A27-85FF-E830BCFE9B9B}|Actividad6SamVictor\\Actividad6SamVictor.csproj|solutionrelative:actividad6samvictor\\infojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F145B609-F376-4A27-85FF-E830BCFE9B9B}|Actividad6SamVictor\\Actividad6SamVictor.csproj|c:\\users\\formacion\\desktop\\lorenzo\\formacionsese\\ultimomodulo\\ejercicioscomun\\actividades6\\actividad6samvictor\\actividad6samvictor\\infojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F145B609-F376-4A27-85FF-E830BCFE9B9B}|Actividad6SamVictor\\Actividad6SamVictor.csproj|solutionrelative:actividad6samvictor\\infojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F145B609-F376-4A27-85FF-E830BCFE9B9B}|Actividad6SamVictor\\Actividad6SamVictor.csproj|c:\\users\\formacion\\desktop\\lorenzo\\formacionsese\\ultimomodulo\\ejercicioscomun\\actividades6\\actividad6samvictor\\actividad6samvictor\\datosusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F145B609-F376-4A27-85FF-E830BCFE9B9B}|Actividad6SamVictor\\Actividad6SamVictor.csproj|solutionrelative:actividad6samvictor\\datosusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades6\\Actividad6SamVictor\\Actividad6SamVictor\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Actividad6SamVictor\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades6\\Actividad6SamVictor\\Actividad6SamVictor\\MenuPrincipal.cs",
+              "RelativeToolTip": "Actividad6SamVictor\\MenuPrincipal.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAMwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:42:25.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades6\\Actividad6SamVictor\\Actividad6SamVictor\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Actividad6SamVictor\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades6\\Actividad6SamVictor\\Actividad6SamVictor\\MenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Actividad6SamVictor\\MenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:40:10.604Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfoJuego.cs",
+              "DocumentMoniker": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades6\\Actividad6SamVictor\\Actividad6SamVictor\\InfoJuego.cs",
+              "RelativeDocumentMoniker": "Actividad6SamVictor\\InfoJuego.cs",
+              "ToolTip": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades6\\Actividad6SamVictor\\Actividad6SamVictor\\InfoJuego.cs",
+              "RelativeToolTip": "Actividad6SamVictor\\InfoJuego.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:39:10.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfoJuego.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades6\\Actividad6SamVictor\\Actividad6SamVictor\\InfoJuego.cs",
+              "RelativeDocumentMoniker": "Actividad6SamVictor\\InfoJuego.cs",
+              "ToolTip": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades6\\Actividad6SamVictor\\Actividad6SamVictor\\InfoJuego.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Actividad6SamVictor\\InfoJuego.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:37:07.808Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatosUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades6\\Actividad6SamVictor\\Actividad6SamVictor\\DatosUsuario.cs",
+              "RelativeDocumentMoniker": "Actividad6SamVictor\\DatosUsuario.cs",
+              "ToolTip": "C:\\Users\\Formacion\\Desktop\\Lorenzo\\FormacionSese\\UltimoModulo\\EjerciciosComun\\Actividades6\\Actividad6SamVictor\\Actividad6SamVictor\\DatosUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Actividad6SamVictor\\DatosUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:23:04.126Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

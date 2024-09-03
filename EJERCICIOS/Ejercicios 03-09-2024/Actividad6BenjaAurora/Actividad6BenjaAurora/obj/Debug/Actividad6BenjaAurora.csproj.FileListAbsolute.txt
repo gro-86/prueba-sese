@@ -1,0 +1,11 @@
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6BenjaAurora\Actividad6BenjaAurora\bin\Debug\Actividad6BenjaAurora.exe
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6BenjaAurora\Actividad6BenjaAurora\bin\Debug\Actividad6BenjaAurora.exe.config
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6BenjaAurora\Actividad6BenjaAurora\obj\Debug\Actividad6BenjaAurora.csproj.AssemblyReference.cache
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6BenjaAurora\Actividad6BenjaAurora\obj\Debug\Actividad6BenjaAurora.Form1.resources
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6BenjaAurora\Actividad6BenjaAurora\obj\Debug\Actividad6BenjaAurora.Form2.resources
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6BenjaAurora\Actividad6BenjaAurora\obj\Debug\Actividad6BenjaAurora.Properties.Resources.resources
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6BenjaAurora\Actividad6BenjaAurora\obj\Debug\Actividad6BenjaAurora.csproj.GenerateResource.cache
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6BenjaAurora\Actividad6BenjaAurora\obj\Debug\Actividad6BenjaAurora.csproj.CoreCompileInputs.cache
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6BenjaAurora\Actividad6BenjaAurora\obj\Debug\Actividad6BenjaAurora.exe
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6BenjaAurora\Actividad6BenjaAurora\obj\Debug\Actividad6BenjaAurora.pdb
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6BenjaAurora\Actividad6BenjaAurora\bin\Debug\Actividad6BenjaAurora.pdb

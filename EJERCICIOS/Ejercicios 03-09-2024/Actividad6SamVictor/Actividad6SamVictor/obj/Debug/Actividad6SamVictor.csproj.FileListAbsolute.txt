@@ -1,0 +1,13 @@
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6SamVictor\Actividad6SamVictor\bin\Debug\Actividad6SamVictor.exe.config
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6SamVictor\Actividad6SamVictor\bin\Debug\Actividad6SamVictor.exe
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6SamVictor\Actividad6SamVictor\bin\Debug\Actividad6SamVictor.pdb
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6SamVictor\Actividad6SamVictor\obj\Debug\Actividad6SamVictor.csproj.AssemblyReference.cache
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6SamVictor\Actividad6SamVictor\obj\Debug\Actividad6SamVictor.MenuPrincipal.resources
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6SamVictor\Actividad6SamVictor\obj\Debug\Actividad6SamVictor.Properties.Resources.resources
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6SamVictor\Actividad6SamVictor\obj\Debug\Actividad6SamVictor.csproj.GenerateResource.cache
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6SamVictor\Actividad6SamVictor\obj\Debug\Actividad6SamVictor.csproj.CoreCompileInputs.cache
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6SamVictor\Actividad6SamVictor\obj\Debug\Actividad6SamVictor.exe
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6SamVictor\Actividad6SamVictor\obj\Debug\Actividad6SamVictor.pdb
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6SamVictor\Actividad6SamVictor\obj\Debug\Actividad6SamVictor.Creditos.resources
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6SamVictor\Actividad6SamVictor\obj\Debug\Actividad6SamVictor.InfoJuego.resources
+C:\Users\Formacion\Desktop\Lorenzo\FormacionSese\UltimoModulo\EjerciciosComun\Actividades6\Actividad6SamVictor\Actividad6SamVictor\obj\Debug\Actividad6SamVictor.DatosUsuario.resources
