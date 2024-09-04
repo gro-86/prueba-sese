@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\formacion\\Desktop\\repositorio-git\\Examen 04-09-2024\\Documentacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF5FEA9-769E-4F44-B9CB-02F34E55CE0F}|Documentacion\\Documentacion.csproj|c:\\users\\formacion\\desktop\\repositorio-git\\examen 04-09-2024\\documentacion\\documentacion\\documentacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0CF5FEA9-769E-4F44-B9CB-02F34E55CE0F}|Documentacion\\Documentacion.csproj|solutionrelative:documentacion\\documentacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF5FEA9-769E-4F44-B9CB-02F34E55CE0F}|Documentacion\\Documentacion.csproj|c:\\users\\formacion\\desktop\\repositorio-git\\examen 04-09-2024\\documentacion\\documentacion\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF5FEA9-769E-4F44-B9CB-02F34E55CE0F}|Documentacion\\Documentacion.csproj|solutionrelative:documentacion\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF5FEA9-769E-4F44-B9CB-02F34E55CE0F}|Documentacion\\Documentacion.csproj|c:\\users\\formacion\\desktop\\repositorio-git\\examen 04-09-2024\\documentacion\\documentacion\\vino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF5FEA9-769E-4F44-B9CB-02F34E55CE0F}|Documentacion\\Documentacion.csproj|solutionrelative:documentacion\\vino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF5FEA9-769E-4F44-B9CB-02F34E55CE0F}|Documentacion\\Documentacion.csproj|c:\\users\\formacion\\desktop\\repositorio-git\\examen 04-09-2024\\documentacion\\documentacion\\resenya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF5FEA9-769E-4F44-B9CB-02F34E55CE0F}|Documentacion\\Documentacion.csproj|solutionrelative:documentacion\\resenya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF5FEA9-769E-4F44-B9CB-02F34E55CE0F}|Documentacion\\Documentacion.csproj|c:\\users\\formacion\\desktop\\repositorio-git\\examen 04-09-2024\\documentacion\\documentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF5FEA9-769E-4F44-B9CB-02F34E55CE0F}|Documentacion\\Documentacion.csproj|solutionrelative:documentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Documentacion",
+              "DocumentMoniker": "C:\\Users\\formacion\\Desktop\\repositorio-git\\Examen 04-09-2024\\Documentacion\\Documentacion\\Documentacion.csproj",
+              "RelativeDocumentMoniker": "Documentacion\\Documentacion.csproj",
+              "ToolTip": "C:\\Users\\formacion\\Desktop\\repositorio-git\\Examen 04-09-2024\\Documentacion\\Documentacion\\Documentacion.csproj",
+              "RelativeToolTip": "Documentacion\\Documentacion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T10:42:37.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resenya.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\Desktop\\repositorio-git\\Examen 04-09-2024\\Documentacion\\Documentacion\\Resenya.cs",
+              "RelativeDocumentMoniker": "Documentacion\\Resenya.cs",
+              "ToolTip": "C:\\Users\\formacion\\Desktop\\repositorio-git\\Examen 04-09-2024\\Documentacion\\Documentacion\\Resenya.cs",
+              "RelativeToolTip": "Documentacion\\Resenya.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:39:15.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vino.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\Desktop\\repositorio-git\\Examen 04-09-2024\\Documentacion\\Documentacion\\Vino.cs",
+              "RelativeDocumentMoniker": "Documentacion\\Vino.cs",
+              "ToolTip": "C:\\Users\\formacion\\Desktop\\repositorio-git\\Examen 04-09-2024\\Documentacion\\Documentacion\\Vino.cs",
+              "RelativeToolTip": "Documentacion\\Vino.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:38:36.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\Desktop\\repositorio-git\\Examen 04-09-2024\\Documentacion\\Documentacion\\Usuario.cs",
+              "RelativeDocumentMoniker": "Documentacion\\Usuario.cs",
+              "ToolTip": "C:\\Users\\formacion\\Desktop\\repositorio-git\\Examen 04-09-2024\\Documentacion\\Documentacion\\Usuario.cs",
+              "RelativeToolTip": "Documentacion\\Usuario.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvxsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:37:59.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\Desktop\\repositorio-git\\Examen 04-09-2024\\Documentacion\\Documentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Documentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\formacion\\Desktop\\repositorio-git\\Examen 04-09-2024\\Documentacion\\Documentacion\\Program.cs",
+              "RelativeToolTip": "Documentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:37:25.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

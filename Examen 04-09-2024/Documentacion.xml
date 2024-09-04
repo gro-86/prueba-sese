@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Documentacion</name>
+    </assembly>
+    <members>
+        <member name="T:Documentacion.Resenya">
+            <summary>
+            Clase Reseña
+            </summary>
+        </member>
+        <member name="P:Documentacion.Resenya.Usuario">
+            <summary>
+            Atributo de tipo usuario
+            </summary>
+        </member>
+        <member name="P:Documentacion.Resenya.Vino">
+            <summary>
+            Atributo de tipo vino
+            </summary>
+        </member>
+        <member name="P:Documentacion.Resenya.Comentario">
+            <summary>
+            Devuelve un comentario
+            </summary>
+        </member>
+        <member name="P:Documentacion.Resenya.Calificacion">
+            <summary>
+            Calificación
+            </summary>
+        </member>
+        <member name="M:Documentacion.Resenya.#ctor(Documentacion.Usuario,Documentacion.Vino,System.String,System.Int32)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="usuario"></param>
+            <param name="vino"></param>
+            <param name="comentario"></param>
+            <param name="calificacion"></param>
+        </member>
+        <member name="M:Documentacion.Resenya.MostrarInformacion">
+            <summary>
+            Método que devuelve los atributos
+            </summary>
+        </member>
+        <member name="T:Documentacion.Usuario">
+            <summary>
+            Clase usuario
+            </summary>
+        </member>
+        <member name="P:Documentacion.Usuario.Nombre">
+            <summary>
+            Atributo nombre
+            </summary>
+        </member>
+        <member name="P:Documentacion.Usuario.CorreoElectronico">
+            <summary>
+            Atributo correo
+            </summary>
+        </member>
+        <member name="M:Documentacion.Usuario.#ctor(System.String,System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="nombre"></param>
+            <param name="correoElectronico"></param>
+        </member>
+        <member name="M:Documentacion.Usuario.MostrarInformacion">
+            <summary>
+            Función de muestra de datos
+            </summary>
+        </member>
+        <member name="T:Documentacion.Vino">
+            <summary>
+            Clase Vino
+            </summary>
+        </member>
+        <member name="P:Documentacion.Vino.Nombre">
+            <summary>
+            Atributo nombre
+            </summary>
+        </member>
+        <member name="P:Documentacion.Vino.Tipo">
+            <summary>
+            Atributo tipo
+            </summary>
+        </member>
+        <member name="M:Documentacion.Vino.#ctor(System.String,System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="nombre"></param>
+            <param name="tipo"></param>
+        </member>
+        <member name="M:Documentacion.Vino.MostrarInformacion">
+            <summary>
+            Función de muestra de datos
+            </summary>
+        </member>
+    </members>
+</doc>

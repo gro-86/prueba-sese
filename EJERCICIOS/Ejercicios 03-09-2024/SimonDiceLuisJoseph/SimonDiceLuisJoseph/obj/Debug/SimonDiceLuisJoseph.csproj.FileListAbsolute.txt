@@ -8,3 +8,13 @@ C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\
 C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\SimonDiceLuisJoseph\obj\Debug\SimonDiceLuisJoseph.csproj.CoreCompileInputs.cache
 C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\SimonDiceLuisJoseph\obj\Debug\SimonDiceLuisJoseph.exe
 C:\Users\formacion\Desktop\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\SimonDiceLuisJoseph\obj\Debug\SimonDiceLuisJoseph.pdb
+C:\Users\formacion\Desktop\repositorio-git\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\SimonDiceLuisJoseph\bin\Debug\SimonDiceLuisJoseph.exe.config
+C:\Users\formacion\Desktop\repositorio-git\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\SimonDiceLuisJoseph\bin\Debug\SimonDiceLuisJoseph.exe
+C:\Users\formacion\Desktop\repositorio-git\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\SimonDiceLuisJoseph\bin\Debug\SimonDiceLuisJoseph.pdb
+C:\Users\formacion\Desktop\repositorio-git\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\SimonDiceLuisJoseph\obj\Debug\SimonDiceLuisJoseph.csproj.AssemblyReference.cache
+C:\Users\formacion\Desktop\repositorio-git\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\SimonDiceLuisJoseph\obj\Debug\SimonDiceLuisJoseph.Form1.resources
+C:\Users\formacion\Desktop\repositorio-git\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\SimonDiceLuisJoseph\obj\Debug\SimonDiceLuisJoseph.Properties.Resources.resources
+C:\Users\formacion\Desktop\repositorio-git\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\SimonDiceLuisJoseph\obj\Debug\SimonDiceLuisJoseph.csproj.GenerateResource.cache
+C:\Users\formacion\Desktop\repositorio-git\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\SimonDiceLuisJoseph\obj\Debug\SimonDiceLuisJoseph.csproj.CoreCompileInputs.cache
+C:\Users\formacion\Desktop\repositorio-git\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\SimonDiceLuisJoseph\obj\Debug\SimonDiceLuisJoseph.exe
+C:\Users\formacion\Desktop\repositorio-git\EJERCICIOS\Ejercicios 03-09-2024\SimonDiceLuisJoseph\SimonDiceLuisJoseph\obj\Debug\SimonDiceLuisJoseph.pdb

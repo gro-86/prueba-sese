@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaUnitariaGroverFernandez", "PruebaUnitariaGroverFernandez\PruebaUnitariaGroverFernandez.csproj", "{EBB14DE3-8C84-47B0-9EAC-6A1D41B8058E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaUnitaria", "PruebaUnitaria\PruebaUnitaria.csproj", "{6A23CA41-766D-4377-96D0-03BF6C183F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB14DE3-8C84-47B0-9EAC-6A1D41B8058E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB14DE3-8C84-47B0-9EAC-6A1D41B8058E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB14DE3-8C84-47B0-9EAC-6A1D41B8058E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB14DE3-8C84-47B0-9EAC-6A1D41B8058E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A23CA41-766D-4377-96D0-03BF6C183F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A23CA41-766D-4377-96D0-03BF6C183F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A23CA41-766D-4377-96D0-03BF6C183F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A23CA41-766D-4377-96D0-03BF6C183F00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81027855-4D54-4185-BC3B-43205F31E464}
+	EndGlobalSection
+EndGlobal

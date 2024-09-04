@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FormularioGFI/1.0.0": {
+        "runtime": {
+          "FormularioGFI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormularioGFI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

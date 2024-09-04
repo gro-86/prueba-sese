@@ -1,0 +1,17 @@
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\bin\Debug\net8.0\Documentacion.exe
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\bin\Debug\net8.0\Documentacion.deps.json
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\bin\Debug\net8.0\Documentacion.runtimeconfig.json
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\bin\Debug\net8.0\Documentacion.dll
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\bin\Debug\net8.0\Documentacion.pdb
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\bin\Debug\net8.0\Documentacion.xml
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\obj\Debug\net8.0\Documentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\obj\Debug\net8.0\Documentacion.AssemblyInfoInputs.cache
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\obj\Debug\net8.0\Documentacion.AssemblyInfo.cs
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\obj\Debug\net8.0\Documentacion.csproj.CoreCompileInputs.cache
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\obj\Debug\net8.0\Documentacion.sourcelink.json
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\obj\Debug\net8.0\Documentacion.dll
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\obj\Debug\net8.0\refint\Documentacion.dll
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\obj\Debug\net8.0\Documentacion.xml
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\obj\Debug\net8.0\Documentacion.pdb
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\obj\Debug\net8.0\Documentacion.genruntimeconfig.cache
+C:\Users\formacion\Desktop\repositorio-git\Examen 04-09-2024\Documentacion\Documentacion\obj\Debug\net8.0\ref\Documentacion.dll

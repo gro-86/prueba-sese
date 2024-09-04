@@ -17,7 +17,6 @@ namespace SimonDiceLuisJoseph
     {
 
         Random ran = new Random();
-        Timer tiempo;
         int contador = 0;
         int cifra = 600;
         Button boton;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\formacion\\source\\repos\\PruebasUnitarias\\PruebasUnitarias\\PruebasUnitarias.csproj": {}
+    "C:\\Users\\formacion\\Desktop\\repositorio-git\\repos\\PruebasUnitarias\\PruebasUnitarias\\PruebasUnitarias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\formacion\\source\\repos\\PruebasUnitarias\\PruebasUnitarias\\PruebasUnitarias.csproj": {
+    "C:\\Users\\formacion\\Desktop\\repositorio-git\\repos\\PruebasUnitarias\\PruebasUnitarias\\PruebasUnitarias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\formacion\\source\\repos\\PruebasUnitarias\\PruebasUnitarias\\PruebasUnitarias.csproj",
+        "projectUniqueName": "C:\\Users\\formacion\\Desktop\\repositorio-git\\repos\\PruebasUnitarias\\PruebasUnitarias\\PruebasUnitarias.csproj",
         "projectName": "PruebasUnitarias",
-        "projectPath": "C:\\Users\\formacion\\source\\repos\\PruebasUnitarias\\PruebasUnitarias\\PruebasUnitarias.csproj",
+        "projectPath": "C:\\Users\\formacion\\Desktop\\repositorio-git\\repos\\PruebasUnitarias\\PruebasUnitarias\\PruebasUnitarias.csproj",
         "packagesPath": "C:\\Users\\formacion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\formacion\\source\\repos\\PruebasUnitarias\\PruebasUnitarias\\obj\\",
+        "outputPath": "C:\\Users\\formacion\\Desktop\\repositorio-git\\repos\\PruebasUnitarias\\PruebasUnitarias\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

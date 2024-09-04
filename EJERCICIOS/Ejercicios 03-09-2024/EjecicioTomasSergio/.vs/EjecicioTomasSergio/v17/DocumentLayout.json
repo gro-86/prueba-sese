@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\formacion\\Desktop\\EJERCICIOS\\Ejercicios 03-09-2024\\EjecicioTomasSergio\\",
+  "WorkspaceRootPath": "C:\\Users\\formacion\\Desktop\\repositorio-git\\EJERCICIOS\\Ejercicios 03-09-2024\\EjecicioTomasSergio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A326189-DE78-4996-9877-BC4BC2430017}|EjecicioTomasSergio\\EjecicioTomasSergio.csproj|c:\\users\\formacion\\desktop\\ejercicios\\ejercicios 03-09-2024\\ejeciciotomassergio\\ejeciciotomassergio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A326189-DE78-4996-9877-BC4BC2430017}|EjecicioTomasSergio\\EjecicioTomasSergio.csproj|c:\\users\\formacion\\desktop\\repositorio-git\\ejercicios\\ejercicios 03-09-2024\\ejeciciotomassergio\\ejeciciotomassergio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A326189-DE78-4996-9877-BC4BC2430017}|EjecicioTomasSergio\\EjecicioTomasSergio.csproj|solutionrelative:ejeciciotomassergio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A326189-DE78-4996-9877-BC4BC2430017}|EjecicioTomasSergio\\EjecicioTomasSergio.csproj|c:\\users\\formacion\\desktop\\ejercicios\\ejercicios 03-09-2024\\ejeciciotomassergio\\ejeciciotomassergio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5A326189-DE78-4996-9877-BC4BC2430017}|EjecicioTomasSergio\\EjecicioTomasSergio.csproj|C:\\Users\\formacion\\Desktop\\repositorio-git\\EJERCICIOS\\Ejercicios 03-09-2024\\EjecicioTomasSergio\\ejeciciotomassergio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5A326189-DE78-4996-9877-BC4BC2430017}|EjecicioTomasSergio\\EjecicioTomasSergio.csproj|solutionrelative:ejeciciotomassergio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\formacion\\Desktop\\EJERCICIOS\\Ejercicios 03-09-2024\\EjecicioTomasSergio\\EjecicioTomasSergio\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\Desktop\\repositorio-git\\EJERCICIOS\\Ejercicios 03-09-2024\\EjecicioTomasSergio\\EjecicioTomasSergio\\Form1.cs",
               "RelativeDocumentMoniker": "EjecicioTomasSergio\\Form1.cs",
-              "ToolTip": "C:\\Users\\formacion\\Desktop\\EJERCICIOS\\Ejercicios 03-09-2024\\EjecicioTomasSergio\\EjecicioTomasSergio\\Form1.cs",
+              "ToolTip": "C:\\Users\\formacion\\Desktop\\repositorio-git\\EJERCICIOS\\Ejercicios 03-09-2024\\EjecicioTomasSergio\\EjecicioTomasSergio\\Form1.cs",
               "RelativeToolTip": "EjecicioTomasSergio\\Form1.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAACAAAAA4AAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwDgAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T07:50:31.091Z",
               "IsPinned": true,
@@ -38,13 +38,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\formacion\\Desktop\\EJERCICIOS\\Ejercicios 03-09-2024\\EjecicioTomasSergio\\EjecicioTomasSergio\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\formacion\\Desktop\\repositorio-git\\EJERCICIOS\\Ejercicios 03-09-2024\\EjecicioTomasSergio\\EjecicioTomasSergio\\Form1.cs",
               "RelativeDocumentMoniker": "EjecicioTomasSergio\\Form1.cs",
               "ToolTip": "C:\\Users\\formacion\\Desktop\\EJERCICIOS\\Ejercicios 03-09-2024\\EjecicioTomasSergio\\EjecicioTomasSergio\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "EjecicioTomasSergio\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\EJERCICIOS\\Ejercicios 03-09-2024\\EjecicioTomasSergio\\EjecicioTomasSergio\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T07:44:47.155Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-03T07:44:47.155Z"
             }
           ]
         }
